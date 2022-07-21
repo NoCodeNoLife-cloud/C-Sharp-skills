@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\enum\enum\obj\Debug\enum.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\enum\enum\obj\Debug\enum.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\enum\enum\obj\Debug\enum.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\enum\enum\bin\Debug\enum.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\enum\enum\bin\Debug\enum.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\enum\enum\obj\Debug\enum.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\enum\enum\obj\Debug\enum.pdb

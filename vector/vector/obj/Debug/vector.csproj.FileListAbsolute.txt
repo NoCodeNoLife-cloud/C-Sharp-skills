@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\vector\vector\bin\Debug\vector.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\vector\vector\bin\Debug\vector.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\vector\vector\obj\Debug\vector.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\vector\vector\obj\Debug\vector.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\vector\vector\obj\Debug\vector.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\vector\vector\obj\Debug\vector.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\vector\vector\obj\Debug\vector.pdb
