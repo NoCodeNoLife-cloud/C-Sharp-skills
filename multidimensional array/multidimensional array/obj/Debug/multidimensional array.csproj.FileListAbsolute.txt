@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\multidimensional array\multidimensional array\bin\Debug\multidimensional_array.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\multidimensional array\multidimensional array\bin\Debug\multidimensional_array.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\multidimensional array\multidimensional array\obj\Debug\multidimensional array.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\multidimensional array\multidimensional array\obj\Debug\multidimensional array.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\multidimensional array\multidimensional array\obj\Debug\multidimensional array.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\multidimensional array\multidimensional array\obj\Debug\multidimensional_array.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\multidimensional array\multidimensional array\obj\Debug\multidimensional_array.pdb

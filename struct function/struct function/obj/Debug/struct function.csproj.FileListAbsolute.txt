@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\struct function\struct function\bin\Debug\struct_function.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\struct function\struct function\bin\Debug\struct_function.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\struct function\struct function\obj\Debug\struct function.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\struct function\struct function\obj\Debug\struct function.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\struct function\struct function\obj\Debug\struct function.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\struct function\struct function\obj\Debug\struct_function.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\struct function\struct function\obj\Debug\struct_function.pdb

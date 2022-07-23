@@ -22,6 +22,12 @@ namespace vector
 
             // ToString
             Console.Out.WriteLine($"{intArray}");
+
+            // foreach
+            foreach (int item in intArray)
+            {
+                Console.Out.Write($"{item} ");
+            }
         }
     }
 }

@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\scope of variable\scope of variable\bin\Debug\scope_of_variable.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\scope of variable\scope of variable\bin\Debug\scope_of_variable.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\scope of variable\scope of variable\obj\Debug\scope of variable.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\scope of variable\scope of variable\obj\Debug\scope of variable.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\scope of variable\scope of variable\obj\Debug\scope of variable.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\scope of variable\scope of variable\obj\Debug\scope_of_variable.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\scope of variable\scope of variable\obj\Debug\scope_of_variable.pdb

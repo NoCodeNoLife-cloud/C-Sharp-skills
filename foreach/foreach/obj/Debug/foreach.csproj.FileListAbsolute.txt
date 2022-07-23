@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\foreach\foreach\bin\Debug\foreach.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\foreach\foreach\bin\Debug\foreach.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\foreach\foreach\obj\Debug\foreach.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\foreach\foreach\obj\Debug\foreach.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\foreach\foreach\obj\Debug\foreach.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\foreach\foreach\obj\Debug\foreach.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\foreach\foreach\obj\Debug\foreach.pdb
