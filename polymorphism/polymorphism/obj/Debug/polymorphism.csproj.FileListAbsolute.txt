@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\polymorphism\polymorphism\bin\Debug\polymorphism.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\polymorphism\polymorphism\bin\Debug\polymorphism.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\polymorphism\polymorphism\obj\Debug\polymorphism.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\polymorphism\polymorphism\obj\Debug\polymorphism.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\polymorphism\polymorphism\obj\Debug\polymorphism.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\polymorphism\polymorphism\obj\Debug\polymorphism.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\polymorphism\polymorphism\obj\Debug\polymorphism.pdb

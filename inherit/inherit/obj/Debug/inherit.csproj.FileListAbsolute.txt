@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\inherit\inherit\bin\Debug\inherit.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\inherit\inherit\bin\Debug\inherit.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\inherit\inherit\obj\Debug\inherit.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\inherit\inherit\obj\Debug\inherit.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\inherit\inherit\obj\Debug\inherit.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\inherit\inherit\obj\Debug\inherit.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\inherit\inherit\obj\Debug\inherit.pdb

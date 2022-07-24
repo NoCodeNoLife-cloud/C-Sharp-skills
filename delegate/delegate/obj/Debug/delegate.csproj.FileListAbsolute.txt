@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\delegate\delegate\bin\Debug\delegate.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\delegate\delegate\bin\Debug\delegate.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\delegate\delegate\obj\Debug\delegate.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\delegate\delegate\obj\Debug\delegate.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\delegate\delegate\obj\Debug\delegate.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\delegate\delegate\obj\Debug\delegate.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\delegate\delegate\obj\Debug\delegate.pdb

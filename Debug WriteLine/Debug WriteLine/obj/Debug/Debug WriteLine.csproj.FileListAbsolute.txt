@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Debug WriteLine\Debug WriteLine\bin\Debug\Debug_WriteLine.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Debug WriteLine\Debug WriteLine\bin\Debug\Debug_WriteLine.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Debug WriteLine\Debug WriteLine\obj\Debug\Debug WriteLine.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Debug WriteLine\Debug WriteLine\obj\Debug\Debug WriteLine.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Debug WriteLine\Debug WriteLine\obj\Debug\Debug WriteLine.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Debug WriteLine\Debug WriteLine\obj\Debug\Debug_WriteLine.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Debug WriteLine\Debug WriteLine\obj\Debug\Debug_WriteLine.pdb

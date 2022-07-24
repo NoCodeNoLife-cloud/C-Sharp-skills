@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\try catch throw\try catch throw\bin\Debug\try_catch_throw.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\try catch throw\try catch throw\bin\Debug\try_catch_throw.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\try catch throw\try catch throw\obj\Debug\try catch throw.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\try catch throw\try catch throw\obj\Debug\try catch throw.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\try catch throw\try catch throw\obj\Debug\try catch throw.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\try catch throw\try catch throw\obj\Debug\try_catch_throw.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\try catch throw\try catch throw\obj\Debug\try_catch_throw.pdb
