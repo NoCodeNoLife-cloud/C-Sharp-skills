@@ -4,63 +4,23 @@ namespace class_demo
 {
     internal class Program
     {
-        private class BaseClass
-        {
-            /// <summary>
-            /// value
-            /// </summary>
-            private int x;
-
-            public double y;
-
-            /// <summary>
-            /// constructor
-            /// </summary>
-            /// <param name="x"></param>
-            /// <param name="y"></param>
-            public BaseClass(int x, double y)
-            {
-                this.x = x;
-                this.y = y;
-            }
-
-            /// <summary>
-            /// override format
-            /// </summary>
-            /// <returns></returns>
-            public override string ToString()
-            {
-                return $"{nameof(x)}: {x}, {nameof(y)}: {y}";
-            }
-
-            /// <summary>
-            /// properties
-            /// </summary>
-            public int X
-            {
-                get => x;
-                set => x = value;
-            }
-
-            public double Y
-            {
-                get => y;
-                set => y = value;
-            }
-
-            static public void function()
-            {
-                Console.Out.WriteLine("Hello World");
-            }
-        }
-
         public static void Main(string[] args)
         {
-            BaseClass.function();
+            BaseClass.Function();
             // create class
             BaseClass baseClass = new BaseClass(3, 2.7);
             // format string
             Console.Out.WriteLine($"{baseClass}");
+            // Classes are reference types
+            BaseClass copy = baseClass;
+            // change copy value not origin value
+            copy.X = 100;
+            copy.Y = 300;
+            Console.Out.WriteLine($"{baseClass}");
+            Console.Out.WriteLine(Console.Out.NewLine);
+
+            BaseClass.NestedClass nestedClass = new BaseClass.NestedClass();
+            nestedClass.Functional();
         }
     }
 }

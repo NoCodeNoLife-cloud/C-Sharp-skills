@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Class methods\Class methods\bin\Debug\Class_methods.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Class methods\Class methods\bin\Debug\Class_methods.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Class methods\Class methods\obj\Debug\Class methods.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Class methods\Class methods\obj\Debug\Class methods.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Class methods\Class methods\obj\Debug\Class methods.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Class methods\Class methods\obj\Debug\Class_methods.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Class methods\Class methods\obj\Debug\Class_methods.pdb

@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\deep copy\deep copy\bin\Debug\deep_copy.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\deep copy\deep copy\bin\Debug\deep_copy.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\deep copy\deep copy\obj\Debug\deep copy.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\deep copy\deep copy\obj\Debug\deep copy.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\deep copy\deep copy\obj\Debug\deep copy.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\deep copy\deep copy\obj\Debug\deep_copy.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\deep copy\deep copy\obj\Debug\deep_copy.pdb
