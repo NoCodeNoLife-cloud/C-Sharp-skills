@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\HashSet\HashSet\bin\Debug\HashSet.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\HashSet\HashSet\bin\Debug\HashSet.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\HashSet\HashSet\obj\Debug\HashSet.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\HashSet\HashSet\obj\Debug\HashSet.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\HashSet\HashSet\obj\Debug\HashSet.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\HashSet\HashSet\obj\Debug\HashSet.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\HashSet\HashSet\obj\Debug\HashSet.pdb

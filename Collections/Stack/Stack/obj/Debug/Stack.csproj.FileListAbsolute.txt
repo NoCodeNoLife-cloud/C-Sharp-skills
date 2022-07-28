@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\Stack\Stack\bin\Debug\Stack.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\Stack\Stack\bin\Debug\Stack.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\Stack\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\Stack\Stack\obj\Debug\Stack.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\Stack\Stack\obj\Debug\Stack.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\Stack\Stack\obj\Debug\Stack.pdb

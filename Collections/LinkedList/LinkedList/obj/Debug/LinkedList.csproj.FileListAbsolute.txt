@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
