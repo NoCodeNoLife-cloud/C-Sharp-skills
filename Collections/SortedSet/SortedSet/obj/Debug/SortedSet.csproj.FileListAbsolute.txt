@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\SortedSet\SortedSet\bin\Debug\SortedSet.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\SortedSet\SortedSet\bin\Debug\SortedSet.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\SortedSet\SortedSet\obj\Debug\SortedSet.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\SortedSet\SortedSet\obj\Debug\SortedSet.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\SortedSet\SortedSet\obj\Debug\SortedSet.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\SortedSet\SortedSet\obj\Debug\SortedSet.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\SortedSet\SortedSet\obj\Debug\SortedSet.pdb
