@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ReadOnlyDictionary\ReadOnlyDictionary\bin\Debug\ReadOnlyDictionary.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ReadOnlyDictionary\ReadOnlyDictionary\bin\Debug\ReadOnlyDictionary.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ReadOnlyDictionary\ReadOnlyDictionary\obj\Debug\ReadOnlyDictionary.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ReadOnlyDictionary\ReadOnlyDictionary\obj\Debug\ReadOnlyDictionary.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ReadOnlyDictionary\ReadOnlyDictionary\obj\Debug\ReadOnlyDictionary.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ReadOnlyDictionary\ReadOnlyDictionary\obj\Debug\ReadOnlyDictionary.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ReadOnlyDictionary\ReadOnlyDictionary\obj\Debug\ReadOnlyDictionary.pdb

@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ArrayList\ArrayList\obj\Debug\ArrayList.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ArrayList\ArrayList\obj\Debug\ArrayList.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ArrayList\ArrayList\obj\Debug\ArrayList.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ArrayList\ArrayList\bin\Debug\ArrayList.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ArrayList\ArrayList\bin\Debug\ArrayList.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ArrayList\ArrayList\obj\Debug\ArrayList.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ArrayList\ArrayList\obj\Debug\ArrayList.pdb

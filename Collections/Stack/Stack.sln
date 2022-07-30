@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{41FD7317-5393-41C6-B7BB-269F1A1020B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{617B2CBB-E775-4DD3-A965-7F1028FFC604}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{41FD7317-5393-41C6-B7BB-269F1A1020B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{41FD7317-5393-41C6-B7BB-269F1A1020B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{41FD7317-5393-41C6-B7BB-269F1A1020B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{41FD7317-5393-41C6-B7BB-269F1A1020B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{617B2CBB-E775-4DD3-A965-7F1028FFC604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{617B2CBB-E775-4DD3-A965-7F1028FFC604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{617B2CBB-E775-4DD3-A965-7F1028FFC604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{617B2CBB-E775-4DD3-A965-7F1028FFC604}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

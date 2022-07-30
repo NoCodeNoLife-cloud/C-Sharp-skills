@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\Array\Array\bin\Debug\Array.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\Array\Array\bin\Debug\Array.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\Array\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\Array\Array\obj\Debug\Array.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\Array\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\Array\Array\obj\Debug\Array.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\Array\Array\obj\Debug\Array.pdb

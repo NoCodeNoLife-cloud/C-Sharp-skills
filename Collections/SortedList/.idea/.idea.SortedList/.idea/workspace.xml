@@ -4,22 +4,27 @@
     <projectFile>SortedList/SortedList.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="962591ba-68a1-4468-9048-2d720bac77bd" name="Changes" comment="" />
+    <list default="true" id="e9911bcb-cbe3-44b3-8480-b2fefcf63b4e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="2CZ39fzqWDxEud48T5M69DuouDL" />
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/edef46c9b2db4b878c98495bfdc516fa568ba8/ff/534be8f7/Array.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2CeFcLLy8LgtF3p4jJc4RUdIuB4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.35020804" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -45,19 +50,20 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="962591ba-68a1-4468-9048-2d720bac77bd" name="Changes" comment="" />
-      <created>1658996130202</created>
+      <changelist id="e9911bcb-cbe3-44b3-8480-b2fefcf63b4e" name="Changes" comment="" />
+      <created>1659155222102</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1658996130202</updated>
-      <workItem from="1658996133867" duration="3890000" />
+      <updated>1659155222102</updated>
+      <workItem from="1659155224588" duration="8701000" />
+      <workItem from="1659189905935" duration="20000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

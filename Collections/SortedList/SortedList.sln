@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedList", "SortedList\SortedList.csproj", "{3533A60D-EB6C-4EAA-B0E0-DBE866451EC0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortedList", "SortedList\SortedList.csproj", "{4EE6B632-4F28-4FE2-965F-5EC200C4CF05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3533A60D-EB6C-4EAA-B0E0-DBE866451EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3533A60D-EB6C-4EAA-B0E0-DBE866451EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3533A60D-EB6C-4EAA-B0E0-DBE866451EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3533A60D-EB6C-4EAA-B0E0-DBE866451EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EE6B632-4F28-4FE2-965F-5EC200C4CF05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE6B632-4F28-4FE2-965F-5EC200C4CF05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE6B632-4F28-4FE2-965F-5EC200C4CF05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE6B632-4F28-4FE2-965F-5EC200C4CF05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

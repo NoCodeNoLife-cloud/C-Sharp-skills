@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ConcurrentDictionary template\ConcurrentDictionary template\bin\Debug\ConcurrentDictionary_template.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ConcurrentDictionary template\ConcurrentDictionary template\bin\Debug\ConcurrentDictionary_template.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ConcurrentDictionary template\ConcurrentDictionary template\obj\Debug\ConcurrentDictionary template.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ConcurrentDictionary template\ConcurrentDictionary template\obj\Debug\ConcurrentDictionary template.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ConcurrentDictionary template\ConcurrentDictionary template\obj\Debug\ConcurrentDictionary template.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ConcurrentDictionary template\ConcurrentDictionary template\obj\Debug\ConcurrentDictionary_template.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ConcurrentDictionary template\ConcurrentDictionary template\obj\Debug\ConcurrentDictionary_template.pdb

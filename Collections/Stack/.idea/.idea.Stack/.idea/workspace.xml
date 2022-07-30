@@ -4,13 +4,13 @@
     <projectFile>Stack/Stack.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e86d5105-bc48-4d3d-9a96-b0c472962705" name="Changes" comment="" />
+    <list default="true" id="8cfa98db-6d56-4dce-b8bd-e023fcf90854" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="2CXDWwmMPYjPp0FXtoFoEoTOYJv" />
+  <component name="ProjectId" id="2Ce6VKf541obAjwqLgCowDoU8d9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,7 +19,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="power.mode.ii" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -45,19 +45,20 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e86d5105-bc48-4d3d-9a96-b0c472962705" name="Changes" comment="" />
-      <created>1658940087366</created>
+      <changelist id="8cfa98db-6d56-4dce-b8bd-e023fcf90854" name="Changes" comment="" />
+      <created>1659150728686</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1658940087366</updated>
-      <workItem from="1658940089273" duration="1305000" />
+      <updated>1659150728686</updated>
+      <workItem from="1659150730731" duration="2979000" />
+      <workItem from="1659155152576" duration="37000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
