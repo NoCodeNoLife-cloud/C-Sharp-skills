@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
+using System.IO;
 using System.Linq;
 
 namespace ReadOnlyDictionaryDemo
@@ -43,6 +44,31 @@ namespace ReadOnlyDictionaryDemo
             }
 
             Console.Out.WriteLine();
+
+            // ContainsKey(TKey)
+            Console.Out.WriteLine($"readOnlyDictionary.ContainsKey(5)={readOnlyDictionary.ContainsKey(5)}");
+
+            // GetEnumerator()
+            Console.Out.WriteLine("GetEnumerator()");
+            IEnumerator enumerator = readOnlyDictionary.GetEnumerator();
+            while (enumerator.MoveNext())
+            {
+                Console.Out.Write($"{enumerator.Current} ");
+            }
+
+            Console.Out.WriteLine();
+
+            // GetHashCode()
+            Console.Out.WriteLine($"readOnlyDictionary.GetHashCode()={readOnlyDictionary.GetHashCode()}");
+
+            // GetType()
+            Console.Out.WriteLine($"readOnlyDictionary.GetType()={readOnlyDictionary.GetType()}");
+
+            // ToString()
+            Console.Out.WriteLine($"readOnlyDictionary.ToString()={readOnlyDictionary.ToString()}");
+
+            // Equals(Object)
+            Console.Out.WriteLine($"readOnlyDictionary.Equals(Directory)={readOnlyDictionary.Equals(dictionary)}");
         }
     }
 }

@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\IEnumerable\IEnumerable\bin\Debug\IEnumerable.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\IEnumerable\IEnumerable\bin\Debug\IEnumerable.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\IEnumerable\IEnumerable\obj\Debug\IEnumerable.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\IEnumerable\IEnumerable\obj\Debug\IEnumerable.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\IEnumerable\IEnumerable\obj\Debug\IEnumerable.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\IEnumerable\IEnumerable\obj\Debug\IEnumerable.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\IEnumerable\IEnumerable\obj\Debug\IEnumerable.pdb

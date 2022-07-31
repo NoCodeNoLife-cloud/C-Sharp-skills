@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\IDictionary inherit\IDictionary inherit\bin\Debug\IDictionary_inherit.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\IDictionary inherit\IDictionary inherit\bin\Debug\IDictionary_inherit.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\IDictionary inherit\IDictionary inherit\obj\Debug\IDictionary inherit.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\IDictionary inherit\IDictionary inherit\obj\Debug\IDictionary inherit.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\IDictionary inherit\IDictionary inherit\obj\Debug\IDictionary inherit.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\IDictionary inherit\IDictionary inherit\obj\Debug\IDictionary_inherit.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\IDictionary inherit\IDictionary inherit\obj\Debug\IDictionary_inherit.pdb

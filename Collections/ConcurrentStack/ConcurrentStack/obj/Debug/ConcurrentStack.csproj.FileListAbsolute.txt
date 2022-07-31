@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ConcurrentStack\ConcurrentStack\obj\Debug\ConcurrentStack.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ConcurrentStack\ConcurrentStack\obj\Debug\ConcurrentStack.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ConcurrentStack\ConcurrentStack\obj\Debug\ConcurrentStack.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ConcurrentStack\ConcurrentStack\bin\Debug\ConcurrentStack.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ConcurrentStack\ConcurrentStack\bin\Debug\ConcurrentStack.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ConcurrentStack\ConcurrentStack\obj\Debug\ConcurrentStack.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Collections\ConcurrentStack\ConcurrentStack\obj\Debug\ConcurrentStack.pdb
