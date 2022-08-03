@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\boxing and unboxing\boxing and unboxing\bin\Debug\boxing_and_unboxing.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\boxing and unboxing\boxing and unboxing\bin\Debug\boxing_and_unboxing.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\boxing and unboxing\boxing and unboxing\obj\Debug\boxing and unboxing.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\boxing and unboxing\boxing and unboxing\obj\Debug\boxing and unboxing.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\boxing and unboxing\boxing and unboxing\obj\Debug\boxing and unboxing.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\boxing and unboxing\boxing and unboxing\obj\Debug\boxing_and_unboxing.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\boxing and unboxing\boxing and unboxing\obj\Debug\boxing_and_unboxing.pdb

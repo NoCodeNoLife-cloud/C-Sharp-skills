@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\is operator\is operator\bin\Debug\is_operator.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\is operator\is operator\bin\Debug\is_operator.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\is operator\is operator\obj\Debug\is operator.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\is operator\is operator\obj\Debug\is operator.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\is operator\is operator\obj\Debug\is operator.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\is operator\is operator\obj\Debug\is_operator.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\is operator\is operator\obj\Debug\is_operator.pdb

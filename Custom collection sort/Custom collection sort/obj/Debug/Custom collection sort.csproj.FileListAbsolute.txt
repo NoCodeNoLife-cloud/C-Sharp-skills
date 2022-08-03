@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Custom collection sort\Custom collection sort\bin\Debug\Custom_collection_sort.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Custom collection sort\Custom collection sort\bin\Debug\Custom_collection_sort.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Custom collection sort\Custom collection sort\obj\Debug\Custom collection sort.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Custom collection sort\Custom collection sort\obj\Debug\Custom collection sort.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Custom collection sort\Custom collection sort\obj\Debug\Custom collection sort.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Custom collection sort\Custom collection sort\obj\Debug\Custom_collection_sort.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Custom collection sort\Custom collection sort\obj\Debug\Custom_collection_sort.pdb

@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\operator overloading\operator overloading\bin\Debug\operator_overloading.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\operator overloading\operator overloading\bin\Debug\operator_overloading.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\operator overloading\operator overloading\obj\Debug\operator overloading.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\operator overloading\operator overloading\obj\Debug\operator overloading.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\operator overloading\operator overloading\obj\Debug\operator overloading.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\operator overloading\operator overloading\obj\Debug\operator_overloading.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\operator overloading\operator overloading\obj\Debug\operator_overloading.pdb

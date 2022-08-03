@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Generic type constraints\Generic type constraints\bin\Debug\Generic_type_constraints.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Generic type constraints\Generic type constraints\bin\Debug\Generic_type_constraints.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Generic type constraints\Generic type constraints\obj\Debug\Generic type constraints.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Generic type constraints\Generic type constraints\obj\Debug\Generic type constraints.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Generic type constraints\Generic type constraints\obj\Debug\Generic type constraints.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Generic type constraints\Generic type constraints\obj\Debug\Generic_type_constraints.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Generic type constraints\Generic type constraints\obj\Debug\Generic_type_constraints.pdb

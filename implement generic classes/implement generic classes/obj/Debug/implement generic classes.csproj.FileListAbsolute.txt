@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\implement generic classes\implement generic classes\bin\Debug\implement_generic_classes.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\implement generic classes\implement generic classes\bin\Debug\implement_generic_classes.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\implement generic classes\implement generic classes\obj\Debug\implement generic classes.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\implement generic classes\implement generic classes\obj\Debug\implement generic classes.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\implement generic classes\implement generic classes\obj\Debug\implement generic classes.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\implement generic classes\implement generic classes\obj\Debug\implement_generic_classes.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\implement generic classes\implement generic classes\obj\Debug\implement_generic_classes.pdb
