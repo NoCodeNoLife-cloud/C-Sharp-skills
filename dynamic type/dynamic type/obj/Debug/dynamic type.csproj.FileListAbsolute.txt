@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\dynamic type\dynamic type\bin\Debug\dynamic_type.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\dynamic type\dynamic type\bin\Debug\dynamic_type.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\dynamic type\dynamic type\obj\Debug\dynamic type.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\dynamic type\dynamic type\obj\Debug\dynamic type.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\dynamic type\dynamic type\obj\Debug\dynamic type.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\dynamic type\dynamic type\obj\Debug\dynamic_type.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\dynamic type\dynamic type\obj\Debug\dynamic_type.pdb

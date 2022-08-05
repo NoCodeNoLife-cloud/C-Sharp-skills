@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\define events\define events\bin\Debug\define_events.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\define events\define events\bin\Debug\define_events.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\define events\define events\obj\Debug\define events.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\define events\define events\obj\Debug\define events.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\define events\define events\obj\Debug\define events.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\define events\define events\obj\Debug\define_events.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\define events\define events\obj\Debug\define_events.pdb

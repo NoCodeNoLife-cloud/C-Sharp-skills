@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Global space qualifier\Global space qualifier\bin\Debug\Global_space_qualifier.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Global space qualifier\Global space qualifier\bin\Debug\Global_space_qualifier.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Global space qualifier\Global space qualifier\obj\Debug\Global space qualifier.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Global space qualifier\Global space qualifier\obj\Debug\Global space qualifier.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Global space qualifier\Global space qualifier\obj\Debug\Global space qualifier.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Global space qualifier\Global space qualifier\obj\Debug\Global_space_qualifier.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Global space qualifier\Global space qualifier\obj\Debug\Global_space_qualifier.pdb

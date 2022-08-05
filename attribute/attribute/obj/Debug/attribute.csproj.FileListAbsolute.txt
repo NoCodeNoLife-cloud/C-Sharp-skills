@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\attribute\attribute\bin\Debug\attribute.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\attribute\attribute\bin\Debug\attribute.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\attribute\attribute\obj\Debug\attribute.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\attribute\attribute\obj\Debug\attribute.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\attribute\attribute\obj\Debug\attribute.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\attribute\attribute\obj\Debug\attribute.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\attribute\attribute\obj\Debug\attribute.pdb

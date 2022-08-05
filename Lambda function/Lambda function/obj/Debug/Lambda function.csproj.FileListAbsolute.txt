@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Lambda function\Lambda function\bin\Debug\Lambda_function.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Lambda function\Lambda function\bin\Debug\Lambda_function.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Lambda function\Lambda function\obj\Debug\Lambda function.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Lambda function\Lambda function\obj\Debug\Lambda function.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Lambda function\Lambda function\obj\Debug\Lambda function.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Lambda function\Lambda function\obj\Debug\Lambda_function.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Lambda function\Lambda function\obj\Debug\Lambda_function.pdb

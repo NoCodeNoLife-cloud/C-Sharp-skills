@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\the initializer\the initializer\bin\Debug\the_initializer.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\the initializer\the initializer\bin\Debug\the_initializer.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\the initializer\the initializer\obj\Debug\the initializer.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\the initializer\the initializer\obj\Debug\the initializer.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\the initializer\the initializer\obj\Debug\the initializer.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\the initializer\the initializer\obj\Debug\the_initializer.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\the initializer\the initializer\obj\Debug\the_initializer.pdb
