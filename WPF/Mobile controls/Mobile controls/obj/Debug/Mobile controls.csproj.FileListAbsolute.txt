@@ -1,0 +1,16 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Mobile controls\Mobile controls\bin\Debug\Mobile_controls.exe.config
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Mobile controls\Mobile controls\bin\Debug\Mobile_controls.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Mobile controls\Mobile controls\bin\Debug\Mobile_controls.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Mobile controls\Mobile controls\obj\Debug\Mobile controls.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Mobile controls\Mobile controls\obj\Debug\Mobile controls.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Mobile controls\Mobile controls\obj\Debug\MainWindow.g.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Mobile controls\Mobile controls\obj\Debug\App.g.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Mobile controls\Mobile controls\obj\Debug\Mobile_controls_MarkupCompile.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Mobile controls\Mobile controls\obj\Debug\Mobile_controls_MarkupCompile.lref
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Mobile controls\Mobile controls\obj\Debug\MainWindow.baml
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Mobile controls\Mobile controls\obj\Debug\Mobile_controls.g.resources
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Mobile controls\Mobile controls\obj\Debug\Mobile_controls.Properties.Resources.resources
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Mobile controls\Mobile controls\obj\Debug\Mobile controls.csproj.GenerateResource.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Mobile controls\Mobile controls\obj\Debug\Mobile controls.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Mobile controls\Mobile controls\obj\Debug\Mobile_controls.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Mobile controls\Mobile controls\obj\Debug\Mobile_controls.pdb
