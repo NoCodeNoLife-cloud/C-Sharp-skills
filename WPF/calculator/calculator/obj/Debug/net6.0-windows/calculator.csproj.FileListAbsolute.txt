@@ -19,3 +19,24 @@ F:\test file\calculator\calculator\obj\Debug\net6.0-windows\refint\calculator.dl
 F:\test file\calculator\calculator\obj\Debug\net6.0-windows\calculator.pdb
 F:\test file\calculator\calculator\obj\Debug\net6.0-windows\calculator.genruntimeconfig.cache
 F:\test file\calculator\calculator\obj\Debug\net6.0-windows\ref\calculator.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\calculator\calculator\bin\Debug\net6.0-windows\calculator.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\calculator\calculator\bin\Debug\net6.0-windows\calculator.deps.json
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\calculator\calculator\bin\Debug\net6.0-windows\calculator.runtimeconfig.json
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\calculator\calculator\bin\Debug\net6.0-windows\calculator.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\calculator\calculator\bin\Debug\net6.0-windows\calculator.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\calculator\calculator\obj\Debug\net6.0-windows\calculator.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\calculator\calculator\obj\Debug\net6.0-windows\MainWindow.g.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\calculator\calculator\obj\Debug\net6.0-windows\App.g.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\calculator\calculator\obj\Debug\net6.0-windows\calculator_MarkupCompile.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\calculator\calculator\obj\Debug\net6.0-windows\calculator_MarkupCompile.lref
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\calculator\calculator\obj\Debug\net6.0-windows\MainWindow.baml
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\calculator\calculator\obj\Debug\net6.0-windows\calculator.g.resources
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\calculator\calculator\obj\Debug\net6.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\calculator\calculator\obj\Debug\net6.0-windows\calculator.AssemblyInfoInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\calculator\calculator\obj\Debug\net6.0-windows\calculator.AssemblyInfo.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\calculator\calculator\obj\Debug\net6.0-windows\calculator.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\calculator\calculator\obj\Debug\net6.0-windows\calculator.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\calculator\calculator\obj\Debug\net6.0-windows\refint\calculator.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\calculator\calculator\obj\Debug\net6.0-windows\calculator.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\calculator\calculator\obj\Debug\net6.0-windows\calculator.genruntimeconfig.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\calculator\calculator\obj\Debug\net6.0-windows\ref\calculator.dll

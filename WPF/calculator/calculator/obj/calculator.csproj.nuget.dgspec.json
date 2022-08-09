@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\test file\\calculator\\calculator\\calculator.csproj": {}
+    "H:\\programe\\GitHub-project-warehouse-manager\\C-Sharp-skills\\WPF\\calculator\\calculator\\calculator.csproj": {}
   },
   "projects": {
-    "F:\\test file\\calculator\\calculator\\calculator.csproj": {
+    "H:\\programe\\GitHub-project-warehouse-manager\\C-Sharp-skills\\WPF\\calculator\\calculator\\calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\test file\\calculator\\calculator\\calculator.csproj",
+        "projectUniqueName": "H:\\programe\\GitHub-project-warehouse-manager\\C-Sharp-skills\\WPF\\calculator\\calculator\\calculator.csproj",
         "projectName": "calculator",
-        "projectPath": "F:\\test file\\calculator\\calculator\\calculator.csproj",
+        "projectPath": "H:\\programe\\GitHub-project-warehouse-manager\\C-Sharp-skills\\WPF\\calculator\\calculator\\calculator.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "F:\\test file\\calculator\\calculator\\obj\\",
+        "outputPath": "H:\\programe\\GitHub-project-warehouse-manager\\C-Sharp-skills\\WPF\\calculator\\calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual Studio package\\tools and SDK\\NuGetPackages"

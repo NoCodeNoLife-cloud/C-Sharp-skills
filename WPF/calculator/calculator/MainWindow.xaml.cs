@@ -27,8 +27,8 @@ namespace calculator
         public MainWindow()
         {
             InitializeComponent();
-            value1 = "0";
-            value2 = "0";
+            value1 = "";
+            value2 = "";
             oper = "";
             lockKeyBoard = true;
         }
@@ -67,12 +67,12 @@ namespace calculator
             {
                 if (oper == "")
                 {
-                    value1 = Convert.ToString(Double.Parse(value1) * 10 + 7);
+                    value1 += "7";
                     this.NUM_result.Content = value1;
                 }
                 else
                 {
-                    value2 = Convert.ToString(Double.Parse(value2) * 10 + 7);
+                    value2 += "7";
                     this.NUM_result.Content = value1 + oper + value2;
                 }
             }
@@ -84,12 +84,12 @@ namespace calculator
             {
                 if (oper == "")
                 {
-                    value1 = Convert.ToString(Double.Parse(value1) * 10 + 8);
+                    value1 += "8";
                     this.NUM_result.Content = value1;
                 }
                 else
                 {
-                    value2 = Convert.ToString(Double.Parse(value2) * 10 + 8);
+                    value2 += "8";
                     this.NUM_result.Content = value1 + oper + value2;
                 }
             }
@@ -101,12 +101,12 @@ namespace calculator
             {
                 if (oper == "")
                 {
-                    value1 = Convert.ToString(Double.Parse(value1) * 10 + 9);
+                    value1 += "9";
                     this.NUM_result.Content = value1;
                 }
                 else
                 {
-                    value2 = Convert.ToString(Double.Parse(value2) * 10 + 9);
+                    value2 += "9";
                     this.NUM_result.Content = value1 + oper + value2;
                 }
             }
@@ -118,12 +118,12 @@ namespace calculator
             {
                 if (oper == "")
                 {
-                    value1 = Convert.ToString(Double.Parse(value1) * 10 + 4);
+                    value1 += "4";
                     this.NUM_result.Content = value1;
                 }
                 else
                 {
-                    value2 = Convert.ToString(Double.Parse(value2) * 10 + 4);
+                    value2 += "4";
                     this.NUM_result.Content = value1 + oper + value2;
                 }
             }
@@ -135,12 +135,12 @@ namespace calculator
             {
                 if (oper == "")
                 {
-                    value1 = Convert.ToString(Double.Parse(value1) * 10 + 5);
+                    value1 += "5";
                     this.NUM_result.Content = value1;
                 }
                 else
                 {
-                    value2 = Convert.ToString(Double.Parse(value2) * 10 + 5);
+                    value2 += "5";
                     this.NUM_result.Content = value1 + oper + value2;
                 }
             }
@@ -152,12 +152,12 @@ namespace calculator
             {
                 if (oper == "")
                 {
-                    value1 = Convert.ToString(Double.Parse(value1) * 10 + 6);
+                    value1 += "6";
                     this.NUM_result.Content = value1;
                 }
                 else
                 {
-                    value2 = Convert.ToString(Double.Parse(value2) * 10 + 6);
+                    value2 += "6";
                     this.NUM_result.Content = value1 + oper + value2;
                 }
             }
@@ -169,12 +169,12 @@ namespace calculator
             {
                 if (oper == "")
                 {
-                    value1 = Convert.ToString(Double.Parse(value1) * 10 + 1);
+                    value1 += "1";
                     this.NUM_result.Content = value1;
                 }
                 else
                 {
-                    value2 = Convert.ToString(Double.Parse(value2) * 10 + 1);
+                    value2 += "1";
                     this.NUM_result.Content = value1 + oper + value2;
                 }
             }
@@ -186,12 +186,12 @@ namespace calculator
             {
                 if (oper == "")
                 {
-                    value1 = Convert.ToString(Double.Parse(value1) * 10 + 2);
+                    value1 += "2";
                     this.NUM_result.Content = value1;
                 }
                 else
                 {
-                    value2 = Convert.ToString(Double.Parse(value2) * 10 + 2);
+                    value2 += "2";
                     this.NUM_result.Content = value1 + oper + value2;
                 }
             }
@@ -203,12 +203,12 @@ namespace calculator
             {
                 if (oper == "")
                 {
-                    value1 = Convert.ToString(Double.Parse(value1) * 10 + 3);
+                    value1 += "3";
                     this.NUM_result.Content = value1;
                 }
                 else
                 {
-                    value2 = Convert.ToString(Double.Parse(value2) * 10 + 3);
+                    value2 += "3";
                     this.NUM_result.Content = value1 + oper + value2;
                 }
             }
@@ -220,12 +220,12 @@ namespace calculator
             {
                 if (oper == "")
                 {
-                    value1 = Convert.ToString(Double.Parse(value1) * 10 + 0);
+                    value1 += "0";
                     this.NUM_result.Content = value1;
                 }
                 else
                 {
-                    value2 = Convert.ToString(Double.Parse(value2) * 10 + 0);
+                    value2 += "0";
                     this.NUM_result.Content = value1 + oper + value2;
                 }
             }
@@ -241,7 +241,7 @@ namespace calculator
                 }
                 else if (oper == "/")
                 {
-                    this.NUM_result.Content = Double.Parse(value1) / Double.Parse( value2);
+                    this.NUM_result.Content = Double.Parse(value1) / Double.Parse(value2);
                     value1 = Convert.ToString(this.NUM_result.Content);
 
                 }
@@ -261,7 +261,7 @@ namespace calculator
                     value1 = Convert.ToString(this.NUM_result.Content);
                 }
                 oper = "";
-                value2 = "0";
+                value2 = "";
             }
         }
 
@@ -297,7 +297,7 @@ namespace calculator
                 {
                     if (!value1.Contains("."))
                     {
-                        value1+=".";
+                        value1 += ".";
                         this.NUM_result.Content = value1;
                     }
                 }
@@ -308,6 +308,208 @@ namespace calculator
                         value2 += ".";
                         this.NUM_result.Content = value1 + oper + value2;
                     }
+                }
+            }
+        }
+
+        private void Window_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.Key == Key.NumLock)
+            {
+                lockKeyBoard = !lockKeyBoard;
+            }
+            else if (lockKeyBoard)
+            {
+                if (e.Key == Key.NumPad0)
+                {
+                    if (oper == "")
+                    {
+                        value1 += "0";
+                        this.NUM_result.Content = value1;
+                    }
+                    else
+                    {
+                        value2 += "0";
+                        this.NUM_result.Content = value1 + oper + value2;
+                    }
+                }
+                else if (e.Key == Key.NumPad1)
+                {
+                    if (oper == "")
+                    {
+                        value1 += "1";
+                        this.NUM_result.Content = value1;
+                    }
+                    else
+                    {
+                        value2 += "1";
+                        this.NUM_result.Content = value1 + oper + value2;
+                    }
+                }
+                else if (e.Key == Key.NumPad2)
+                {
+                    if (oper == "")
+                    {
+                        value1 += "2";
+                        this.NUM_result.Content = value1;
+                    }
+                    else
+                    {
+                        value2 += "2";
+                        this.NUM_result.Content = value1 + oper + value2;
+                    }
+                }
+                else if (e.Key == Key.NumPad3)
+                {
+                    if (oper == "")
+                    {
+                        value1 += "3";
+                        this.NUM_result.Content = value1;
+                    }
+                    else
+                    {
+                        value2 += "3";
+                        this.NUM_result.Content = value1 + oper + value2;
+                    }
+                }
+                else if (e.Key == Key.NumPad4)
+                {
+                    if (oper == "")
+                    {
+                        value1 += "4";
+                        this.NUM_result.Content = value1;
+                    }
+                    else
+                    {
+                        value2 += "4";
+                        this.NUM_result.Content = value1 + oper + value2;
+                    }
+                }
+                else if (e.Key == Key.NumPad5)
+                {
+                    if (oper == "")
+                    {
+                        value1 += "5";
+                        this.NUM_result.Content = value1;
+                    }
+                    else
+                    {
+                        value2 += "5";
+                        this.NUM_result.Content = value1 + oper + value2;
+                    }
+                }
+                else if (e.Key == Key.NumPad6)
+                {
+                    if (oper == "")
+                    {
+                        value1 += "6";
+                        this.NUM_result.Content = value1;
+                    }
+                    else
+                    {
+                        value2 += "6";
+                        this.NUM_result.Content = value1 + oper + value2;
+                    }
+                }
+                else if (e.Key == Key.NumPad7)
+                {
+                    if (oper == "")
+                    {
+                        value1 += "7";
+                        this.NUM_result.Content = value1;
+                    }
+                    else
+                    {
+                        value2 += "7";
+                        this.NUM_result.Content = value1 + oper + value2;
+                    }
+                }
+                else if (e.Key == Key.NumPad8)
+                {
+                    if (oper == "")
+                    {
+                        value1 += "8";
+                        this.NUM_result.Content = value1;
+                    }
+                    else
+                    {
+                        value2 += "8";
+                        this.NUM_result.Content = value1 + oper + value2;
+                    }
+                }
+                else if (e.Key == Key.NumPad9)
+                {
+                    if (oper == "")
+                    {
+                        value1 += "9";
+                        this.NUM_result.Content = value1;
+                    }
+                    else
+                    {
+                        value2 += "9";
+                        this.NUM_result.Content = value1 + oper + value2;
+                    }
+                }
+                else if (e.Key == Key.Multiply)
+                {
+                    if (oper == "")
+                    {
+                        oper = "*";
+                    }
+                    this.NUM_result.Content = value1 + oper;
+                }
+                else if (e.Key == Key.Divide)
+                {
+                    if (oper == "")
+                    {
+                        oper = "/";
+                    }
+                    this.NUM_result.Content = value1 + oper;
+                }
+                else if (e.Key == Key.Add)
+                {
+                    if (oper == "")
+                    {
+                        oper = "+";
+                    }
+                    this.NUM_result.Content = value1 + oper;
+                }
+                else if (e.Key == Key.Subtract)
+                {
+                    if (oper == "")
+                    {
+                        oper = "-";
+                    }
+                    this.NUM_result.Content = value1 + oper;
+                }else if (e.Key == Key.Enter)
+                {
+                    if (oper == "" || value2 == "")
+                    {
+                        this.NUM_result.Content = value1;
+                    }
+                    else if (oper == "/")
+                    {
+                        this.NUM_result.Content = Double.Parse(value1) / Double.Parse(value2);
+                        value1 = Convert.ToString(this.NUM_result.Content);
+
+                    }
+                    else if (oper == "*")
+                    {
+                        this.NUM_result.Content = Double.Parse(value1) * Double.Parse(value2);
+                        value1 = Convert.ToString(this.NUM_result.Content);
+                    }
+                    else if (oper == "-")
+                    {
+                        this.NUM_result.Content = Double.Parse(value1) - Double.Parse(value2);
+                        value1 = Convert.ToString(this.NUM_result.Content);
+                    }
+                    else if (oper == "+")
+                    {
+                        this.NUM_result.Content = Double.Parse(value1) + Double.Parse(value2);
+                        value1 = Convert.ToString(this.NUM_result.Content);
+                    }
+                    oper = "";
+                    value2 = "";
                 }
             }
         }

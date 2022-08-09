@@ -1,0 +1,22 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IValueConverter Demo\IValueConverter Demo\bin\Debug\net6.0-windows\IValueConverter Demo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IValueConverter Demo\IValueConverter Demo\bin\Debug\net6.0-windows\IValueConverter Demo.deps.json
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IValueConverter Demo\IValueConverter Demo\bin\Debug\net6.0-windows\IValueConverter Demo.runtimeconfig.json
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IValueConverter Demo\IValueConverter Demo\bin\Debug\net6.0-windows\IValueConverter Demo.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IValueConverter Demo\IValueConverter Demo\bin\Debug\net6.0-windows\IValueConverter Demo.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IValueConverter Demo\IValueConverter Demo\obj\Debug\net6.0-windows\IValueConverter Demo.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IValueConverter Demo\IValueConverter Demo\obj\Debug\net6.0-windows\MainWindow.g.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IValueConverter Demo\IValueConverter Demo\obj\Debug\net6.0-windows\App.g.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IValueConverter Demo\IValueConverter Demo\obj\Debug\net6.0-windows\IValueConverter Demo_MarkupCompile.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IValueConverter Demo\IValueConverter Demo\obj\Debug\net6.0-windows\IValueConverter Demo_MarkupCompile.lref
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IValueConverter Demo\IValueConverter Demo\obj\Debug\net6.0-windows\MainWindow.baml
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IValueConverter Demo\IValueConverter Demo\obj\Debug\net6.0-windows\IValueConverter Demo.g.resources
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IValueConverter Demo\IValueConverter Demo\obj\Debug\net6.0-windows\IValueConverter Demo.GeneratedMSBuildEditorConfig.editorconfig
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IValueConverter Demo\IValueConverter Demo\obj\Debug\net6.0-windows\IValueConverter Demo.AssemblyInfoInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IValueConverter Demo\IValueConverter Demo\obj\Debug\net6.0-windows\IValueConverter Demo.AssemblyInfo.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IValueConverter Demo\IValueConverter Demo\obj\Debug\net6.0-windows\IValueConverter Demo.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IValueConverter Demo\IValueConverter Demo\obj\Debug\net6.0-windows\IValueConverter Demo.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IValueConverter Demo\IValueConverter Demo\obj\Debug\net6.0-windows\refint\IValueConverter Demo.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IValueConverter Demo\IValueConverter Demo\obj\Debug\net6.0-windows\IValueConverter Demo.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IValueConverter Demo\IValueConverter Demo\obj\Debug\net6.0-windows\IValueConverter Demo.genruntimeconfig.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IValueConverter Demo\IValueConverter Demo\obj\Debug\net6.0-windows\ref\IValueConverter Demo.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IValueConverter Demo\IValueConverter Demo\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
