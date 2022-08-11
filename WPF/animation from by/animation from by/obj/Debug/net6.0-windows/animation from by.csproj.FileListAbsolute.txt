@@ -1,0 +1,21 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\animation from by\animation from by\bin\Debug\net6.0-windows\animation from by.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\animation from by\animation from by\bin\Debug\net6.0-windows\animation from by.deps.json
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\animation from by\animation from by\bin\Debug\net6.0-windows\animation from by.runtimeconfig.json
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\animation from by\animation from by\bin\Debug\net6.0-windows\animation from by.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\animation from by\animation from by\bin\Debug\net6.0-windows\animation from by.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\animation from by\animation from by\obj\Debug\net6.0-windows\animation from by.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\animation from by\animation from by\obj\Debug\net6.0-windows\MainWindow.g.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\animation from by\animation from by\obj\Debug\net6.0-windows\App.g.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\animation from by\animation from by\obj\Debug\net6.0-windows\animation from by_MarkupCompile.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\animation from by\animation from by\obj\Debug\net6.0-windows\animation from by_MarkupCompile.lref
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\animation from by\animation from by\obj\Debug\net6.0-windows\MainWindow.baml
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\animation from by\animation from by\obj\Debug\net6.0-windows\animation from by.g.resources
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\animation from by\animation from by\obj\Debug\net6.0-windows\animation from by.GeneratedMSBuildEditorConfig.editorconfig
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\animation from by\animation from by\obj\Debug\net6.0-windows\animation from by.AssemblyInfoInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\animation from by\animation from by\obj\Debug\net6.0-windows\animation from by.AssemblyInfo.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\animation from by\animation from by\obj\Debug\net6.0-windows\animation from by.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\animation from by\animation from by\obj\Debug\net6.0-windows\animation from by.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\animation from by\animation from by\obj\Debug\net6.0-windows\refint\animation from by.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\animation from by\animation from by\obj\Debug\net6.0-windows\animation from by.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\animation from by\animation from by\obj\Debug\net6.0-windows\animation from by.genruntimeconfig.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\animation from by\animation from by\obj\Debug\net6.0-windows\ref\animation from by.dll

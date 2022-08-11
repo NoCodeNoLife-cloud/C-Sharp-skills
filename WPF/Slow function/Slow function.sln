@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slow function", "Slow function\Slow function.csproj", "{4E55CB95-F59E-4660-8C21-88612690D1DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E55CB95-F59E-4660-8C21-88612690D1DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E55CB95-F59E-4660-8C21-88612690D1DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E55CB95-F59E-4660-8C21-88612690D1DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E55CB95-F59E-4660-8C21-88612690D1DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE83923E-B810-40D8-8EFA-0A5F203FE62B}
+	EndGlobalSection
+EndGlobal

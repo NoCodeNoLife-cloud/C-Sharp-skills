@@ -1,0 +1,21 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Key frame animation\Key frame animation\bin\Debug\net6.0-windows\Key frame animation.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Key frame animation\Key frame animation\bin\Debug\net6.0-windows\Key frame animation.deps.json
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Key frame animation\Key frame animation\bin\Debug\net6.0-windows\Key frame animation.runtimeconfig.json
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Key frame animation\Key frame animation\bin\Debug\net6.0-windows\Key frame animation.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Key frame animation\Key frame animation\bin\Debug\net6.0-windows\Key frame animation.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Key frame animation\Key frame animation\obj\Debug\net6.0-windows\Key frame animation.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Key frame animation\Key frame animation\obj\Debug\net6.0-windows\MainWindow.g.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Key frame animation\Key frame animation\obj\Debug\net6.0-windows\App.g.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Key frame animation\Key frame animation\obj\Debug\net6.0-windows\Key frame animation_MarkupCompile.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Key frame animation\Key frame animation\obj\Debug\net6.0-windows\Key frame animation_MarkupCompile.lref
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Key frame animation\Key frame animation\obj\Debug\net6.0-windows\MainWindow.baml
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Key frame animation\Key frame animation\obj\Debug\net6.0-windows\Key frame animation.g.resources
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Key frame animation\Key frame animation\obj\Debug\net6.0-windows\Key frame animation.GeneratedMSBuildEditorConfig.editorconfig
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Key frame animation\Key frame animation\obj\Debug\net6.0-windows\Key frame animation.AssemblyInfoInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Key frame animation\Key frame animation\obj\Debug\net6.0-windows\Key frame animation.AssemblyInfo.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Key frame animation\Key frame animation\obj\Debug\net6.0-windows\Key frame animation.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Key frame animation\Key frame animation\obj\Debug\net6.0-windows\Key frame animation.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Key frame animation\Key frame animation\obj\Debug\net6.0-windows\refint\Key frame animation.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Key frame animation\Key frame animation\obj\Debug\net6.0-windows\Key frame animation.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Key frame animation\Key frame animation\obj\Debug\net6.0-windows\Key frame animation.genruntimeconfig.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Key frame animation\Key frame animation\obj\Debug\net6.0-windows\ref\Key frame animation.dll

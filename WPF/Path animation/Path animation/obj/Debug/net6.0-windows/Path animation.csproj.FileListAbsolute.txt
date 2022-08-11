@@ -1,0 +1,21 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Path animation\Path animation\obj\Debug\net6.0-windows\Path animation.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Path animation\Path animation\obj\Debug\net6.0-windows\MainWindow.baml
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Path animation\Path animation\obj\Debug\net6.0-windows\App.g.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Path animation\Path animation\obj\Debug\net6.0-windows\Path animation_MarkupCompile.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Path animation\Path animation\obj\Debug\net6.0-windows\Path animation.g.resources
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Path animation\Path animation\obj\Debug\net6.0-windows\Path animation.GeneratedMSBuildEditorConfig.editorconfig
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Path animation\Path animation\obj\Debug\net6.0-windows\Path animation.AssemblyInfoInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Path animation\Path animation\obj\Debug\net6.0-windows\Path animation.AssemblyInfo.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Path animation\Path animation\obj\Debug\net6.0-windows\Path animation.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Path animation\Path animation\bin\Debug\net6.0-windows\Path animation.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Path animation\Path animation\bin\Debug\net6.0-windows\Path animation.deps.json
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Path animation\Path animation\bin\Debug\net6.0-windows\Path animation.runtimeconfig.json
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Path animation\Path animation\bin\Debug\net6.0-windows\Path animation.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Path animation\Path animation\bin\Debug\net6.0-windows\Path animation.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Path animation\Path animation\obj\Debug\net6.0-windows\MainWindow.g.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Path animation\Path animation\obj\Debug\net6.0-windows\Path animation_MarkupCompile.lref
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Path animation\Path animation\obj\Debug\net6.0-windows\Path animation.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Path animation\Path animation\obj\Debug\net6.0-windows\refint\Path animation.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Path animation\Path animation\obj\Debug\net6.0-windows\Path animation.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Path animation\Path animation\obj\Debug\net6.0-windows\Path animation.genruntimeconfig.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Path animation\Path animation\obj\Debug\net6.0-windows\ref\Path animation.dll

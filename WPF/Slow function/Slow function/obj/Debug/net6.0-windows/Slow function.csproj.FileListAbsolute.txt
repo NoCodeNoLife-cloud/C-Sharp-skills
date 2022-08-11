@@ -1,0 +1,21 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Slow function\Slow function\bin\Debug\net6.0-windows\Slow function.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Slow function\Slow function\bin\Debug\net6.0-windows\Slow function.deps.json
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Slow function\Slow function\bin\Debug\net6.0-windows\Slow function.runtimeconfig.json
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Slow function\Slow function\bin\Debug\net6.0-windows\Slow function.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Slow function\Slow function\bin\Debug\net6.0-windows\Slow function.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Slow function\Slow function\obj\Debug\net6.0-windows\Slow function.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Slow function\Slow function\obj\Debug\net6.0-windows\MainWindow.g.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Slow function\Slow function\obj\Debug\net6.0-windows\App.g.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Slow function\Slow function\obj\Debug\net6.0-windows\Slow function_MarkupCompile.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Slow function\Slow function\obj\Debug\net6.0-windows\Slow function_MarkupCompile.lref
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Slow function\Slow function\obj\Debug\net6.0-windows\MainWindow.baml
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Slow function\Slow function\obj\Debug\net6.0-windows\Slow function.g.resources
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Slow function\Slow function\obj\Debug\net6.0-windows\Slow function.GeneratedMSBuildEditorConfig.editorconfig
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Slow function\Slow function\obj\Debug\net6.0-windows\Slow function.AssemblyInfoInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Slow function\Slow function\obj\Debug\net6.0-windows\Slow function.AssemblyInfo.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Slow function\Slow function\obj\Debug\net6.0-windows\Slow function.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Slow function\Slow function\obj\Debug\net6.0-windows\Slow function.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Slow function\Slow function\obj\Debug\net6.0-windows\refint\Slow function.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Slow function\Slow function\obj\Debug\net6.0-windows\Slow function.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Slow function\Slow function\obj\Debug\net6.0-windows\Slow function.genruntimeconfig.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Slow function\Slow function\obj\Debug\net6.0-windows\ref\Slow function.dll

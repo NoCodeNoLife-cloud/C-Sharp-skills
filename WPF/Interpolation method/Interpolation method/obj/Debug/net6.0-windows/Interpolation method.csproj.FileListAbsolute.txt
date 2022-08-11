@@ -1,0 +1,21 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Interpolation method\Interpolation method\bin\Debug\net6.0-windows\Interpolation method.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Interpolation method\Interpolation method\bin\Debug\net6.0-windows\Interpolation method.deps.json
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Interpolation method\Interpolation method\bin\Debug\net6.0-windows\Interpolation method.runtimeconfig.json
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Interpolation method\Interpolation method\bin\Debug\net6.0-windows\Interpolation method.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Interpolation method\Interpolation method\bin\Debug\net6.0-windows\Interpolation method.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Interpolation method\Interpolation method\obj\Debug\net6.0-windows\Interpolation method.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Interpolation method\Interpolation method\obj\Debug\net6.0-windows\MainWindow.g.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Interpolation method\Interpolation method\obj\Debug\net6.0-windows\App.g.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Interpolation method\Interpolation method\obj\Debug\net6.0-windows\Interpolation method_MarkupCompile.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Interpolation method\Interpolation method\obj\Debug\net6.0-windows\Interpolation method_MarkupCompile.lref
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Interpolation method\Interpolation method\obj\Debug\net6.0-windows\MainWindow.baml
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Interpolation method\Interpolation method\obj\Debug\net6.0-windows\Interpolation method.g.resources
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Interpolation method\Interpolation method\obj\Debug\net6.0-windows\Interpolation method.GeneratedMSBuildEditorConfig.editorconfig
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Interpolation method\Interpolation method\obj\Debug\net6.0-windows\Interpolation method.AssemblyInfoInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Interpolation method\Interpolation method\obj\Debug\net6.0-windows\Interpolation method.AssemblyInfo.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Interpolation method\Interpolation method\obj\Debug\net6.0-windows\Interpolation method.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Interpolation method\Interpolation method\obj\Debug\net6.0-windows\Interpolation method.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Interpolation method\Interpolation method\obj\Debug\net6.0-windows\refint\Interpolation method.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Interpolation method\Interpolation method\obj\Debug\net6.0-windows\Interpolation method.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Interpolation method\Interpolation method\obj\Debug\net6.0-windows\Interpolation method.genruntimeconfig.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Interpolation method\Interpolation method\obj\Debug\net6.0-windows\ref\Interpolation method.dll

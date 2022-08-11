@@ -1,0 +1,28 @@
+﻿<Window x:Class="Path_animation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Path_animation"
+        mc:Ignorable="d" Loaded="Page_Loaded"
+        Title="MainWindow" Height="400" Width="500">
+    <Grid ShowGridLines="True">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"></ColumnDefinition>
+            <ColumnDefinition Width="7*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Canvas Name="mainCanvas" Grid.Row="0" Grid.Column="1" Background="LightCyan" Margin="50,30,0,0">
+            <Canvas.Resources>
+                <SolidColorBrush x:Key="PathStrokeBrush01" Color="#FF686964" />
+            </Canvas.Resources>
+            <Rectangle x:Name="rotatingLine" Width="80" Height="20" Stroke="Blue" Fill="Red" />
+            <!--用来指示椭圆路径的中心点-->
+            <Ellipse Name="ese1" Fill="red" Width="7" Height="7" Stroke="black" StrokeThickness="2.5" HorizontalAlignment="Left" VerticalAlignment="Top"></Ellipse>
+        </Canvas>
+    </Grid>
+</Window>
