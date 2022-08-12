@@ -1,0 +1,16 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IsCumulative Attributes\IsCumulative Attributes\bin\Debug\IsCumulative_Attributes.exe.config
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IsCumulative Attributes\IsCumulative Attributes\bin\Debug\IsCumulative_Attributes.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IsCumulative Attributes\IsCumulative Attributes\bin\Debug\IsCumulative_Attributes.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IsCumulative Attributes\IsCumulative Attributes\obj\Debug\IsCumulative Attributes.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IsCumulative Attributes\IsCumulative Attributes\obj\Debug\IsCumulative Attributes.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IsCumulative Attributes\IsCumulative Attributes\obj\Debug\MainWindow.g.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IsCumulative Attributes\IsCumulative Attributes\obj\Debug\App.g.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IsCumulative Attributes\IsCumulative Attributes\obj\Debug\IsCumulative_Attributes_MarkupCompile.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IsCumulative Attributes\IsCumulative Attributes\obj\Debug\IsCumulative_Attributes_MarkupCompile.lref
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IsCumulative Attributes\IsCumulative Attributes\obj\Debug\MainWindow.baml
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IsCumulative Attributes\IsCumulative Attributes\obj\Debug\IsCumulative_Attributes.g.resources
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IsCumulative Attributes\IsCumulative Attributes\obj\Debug\IsCumulative_Attributes.Properties.Resources.resources
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IsCumulative Attributes\IsCumulative Attributes\obj\Debug\IsCumulative Attributes.csproj.GenerateResource.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IsCumulative Attributes\IsCumulative Attributes\obj\Debug\IsCumulative Attributes.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IsCumulative Attributes\IsCumulative Attributes\obj\Debug\IsCumulative_Attributes.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\IsCumulative Attributes\IsCumulative Attributes\obj\Debug\IsCumulative_Attributes.pdb

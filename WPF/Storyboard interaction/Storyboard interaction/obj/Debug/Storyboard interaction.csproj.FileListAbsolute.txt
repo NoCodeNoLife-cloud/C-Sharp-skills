@@ -1,0 +1,16 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Storyboard interaction\Storyboard interaction\bin\Debug\Storyboard_interaction.exe.config
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Storyboard interaction\Storyboard interaction\bin\Debug\Storyboard_interaction.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Storyboard interaction\Storyboard interaction\bin\Debug\Storyboard_interaction.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Storyboard interaction\Storyboard interaction\obj\Debug\Storyboard interaction.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Storyboard interaction\Storyboard interaction\obj\Debug\Storyboard interaction.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Storyboard interaction\Storyboard interaction\obj\Debug\MainWindow.g.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Storyboard interaction\Storyboard interaction\obj\Debug\App.g.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Storyboard interaction\Storyboard interaction\obj\Debug\Storyboard_interaction_MarkupCompile.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Storyboard interaction\Storyboard interaction\obj\Debug\Storyboard_interaction_MarkupCompile.lref
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Storyboard interaction\Storyboard interaction\obj\Debug\MainWindow.baml
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Storyboard interaction\Storyboard interaction\obj\Debug\Storyboard_interaction.g.resources
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Storyboard interaction\Storyboard interaction\obj\Debug\Storyboard_interaction.Properties.Resources.resources
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Storyboard interaction\Storyboard interaction\obj\Debug\Storyboard interaction.csproj.GenerateResource.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Storyboard interaction\Storyboard interaction\obj\Debug\Storyboard interaction.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Storyboard interaction\Storyboard interaction\obj\Debug\Storyboard_interaction.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\Storyboard interaction\Storyboard interaction\obj\Debug\Storyboard_interaction.pdb
