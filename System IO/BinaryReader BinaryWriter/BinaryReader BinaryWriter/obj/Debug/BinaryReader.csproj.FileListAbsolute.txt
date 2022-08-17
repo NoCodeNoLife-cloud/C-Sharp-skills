@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\BinaryReader\BinaryReader\bin\Debug\BinaryReader.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\BinaryReader\BinaryReader\bin\Debug\BinaryReader.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\BinaryReader\BinaryReader\obj\Debug\BinaryReader.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\BinaryReader\BinaryReader\obj\Debug\BinaryReader.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\BinaryReader\BinaryReader\obj\Debug\BinaryReader.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\BinaryReader\BinaryReader\obj\Debug\BinaryReader.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\BinaryReader\BinaryReader\obj\Debug\BinaryReader.pdb

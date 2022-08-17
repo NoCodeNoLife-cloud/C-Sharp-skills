@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\ErrorEventArgs\ErrorEventArgs\bin\Debug\ErrorEventArgs.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\ErrorEventArgs\ErrorEventArgs\bin\Debug\ErrorEventArgs.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\ErrorEventArgs\ErrorEventArgs\obj\Debug\ErrorEventArgs.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\ErrorEventArgs\ErrorEventArgs\obj\Debug\ErrorEventArgs.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\ErrorEventArgs\ErrorEventArgs\obj\Debug\ErrorEventArgs.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\ErrorEventArgs\ErrorEventArgs\obj\Debug\ErrorEventArgs.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\ErrorEventArgs\ErrorEventArgs\obj\Debug\ErrorEventArgs.pdb

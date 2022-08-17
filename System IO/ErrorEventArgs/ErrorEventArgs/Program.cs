@@ -1,0 +1,21 @@
+﻿using System;
+using System.IO;
+
+namespace ErrorEventArgsDemo
+{
+    internal class Program
+    {
+        public static void Main(string[] args)
+        {
+            // Creates an exception with an error message.
+            Exception myException = new Exception("This is an exception test");
+
+            // Creates an ErrorEventArgs with the exception.
+            ErrorEventArgs myErrorEventArgs = new ErrorEventArgs(myException);
+
+            // Extracts the exception from the ErrorEventArgs and display it.
+            Exception myReturnedException = myErrorEventArgs.GetException();
+            Console.Out.WriteLine("The returned exception is: " + myReturnedException.Message);
+        }
+    }
+}

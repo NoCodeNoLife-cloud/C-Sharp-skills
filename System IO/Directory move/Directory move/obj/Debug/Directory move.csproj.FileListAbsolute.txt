@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\Directory move\Directory move\bin\Debug\Directory_move.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\Directory move\Directory move\bin\Debug\Directory_move.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\Directory move\Directory move\obj\Debug\Directory move.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\Directory move\Directory move\obj\Debug\Directory move.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\Directory move\Directory move\obj\Debug\Directory move.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\Directory move\Directory move\obj\Debug\Directory_move.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\Directory move\Directory move\obj\Debug\Directory_move.pdb

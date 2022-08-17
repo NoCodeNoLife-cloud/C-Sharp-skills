@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\FileInfo\FileInfo\obj\Debug\FileInfo.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\FileInfo\FileInfo\obj\Debug\FileInfo.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\FileInfo\FileInfo\obj\Debug\FileInfo.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\FileInfo\FileInfo\bin\Debug\FileInfo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\FileInfo\FileInfo\bin\Debug\FileInfo.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\FileInfo\FileInfo\obj\Debug\FileInfo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\FileInfo\FileInfo\obj\Debug\FileInfo.pdb

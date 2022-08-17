@@ -1,0 +1,31 @@
+Drive C:\
+  Drive type: Fixed
+  Volume label: 
+  File system: NTFS
+  Available space to current user:    12012503040 bytes
+  Total available space:              12012503040 bytes
+  Total size of drive:               109981986816 bytes 
+Drive D:\
+  Drive type: Fixed
+  Volume label: 应用程序
+  File system: NTFS
+  Available space to current user:   267437629440 bytes
+  Total available space:             267437629440 bytes
+  Total size of drive:               314572795904 bytes 
+Drive E:\
+  Drive type: Fixed
+  Volume label: 工作
+  File system: NTFS
+  Available space to current user:   222940909568 bytes
+  Total available space:             222940909568 bytes
+  Total size of drive:               339464941568 bytes 
+Drive F:\
+  Drive type: Fixed
+  Volume label: 文件
+  File system: NTFS
+  Available space to current user:   345101942784 bytes
+  Total available space:             345101942784 bytes
+  Total size of drive:               346029027328 bytes 
+Drive H:\
+  Drive type: Fixed
+  Volume lab

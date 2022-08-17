@@ -1,0 +1,16 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\ClockControllerSpeedRatio\ClockControllerSpeedRatio\bin\Debug\ClockControllerSpeedRatio.exe.config
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\ClockControllerSpeedRatio\ClockControllerSpeedRatio\bin\Debug\ClockControllerSpeedRatio.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\ClockControllerSpeedRatio\ClockControllerSpeedRatio\bin\Debug\ClockControllerSpeedRatio.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\ClockControllerSpeedRatio\ClockControllerSpeedRatio\obj\Debug\ClockControllerSpeedRatio.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\ClockControllerSpeedRatio\ClockControllerSpeedRatio\obj\Debug\ClockControllerSpeedRatio.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\ClockControllerSpeedRatio\ClockControllerSpeedRatio\obj\Debug\MainWindow.g.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\ClockControllerSpeedRatio\ClockControllerSpeedRatio\obj\Debug\App.g.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\ClockControllerSpeedRatio\ClockControllerSpeedRatio\obj\Debug\ClockControllerSpeedRatio_MarkupCompile.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\ClockControllerSpeedRatio\ClockControllerSpeedRatio\obj\Debug\ClockControllerSpeedRatio_MarkupCompile.lref
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\ClockControllerSpeedRatio\ClockControllerSpeedRatio\obj\Debug\MainWindow.baml
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\ClockControllerSpeedRatio\ClockControllerSpeedRatio\obj\Debug\ClockControllerSpeedRatio.g.resources
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\ClockControllerSpeedRatio\ClockControllerSpeedRatio\obj\Debug\ClockControllerSpeedRatio.Properties.Resources.resources
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\ClockControllerSpeedRatio\ClockControllerSpeedRatio\obj\Debug\ClockControllerSpeedRatio.csproj.GenerateResource.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\ClockControllerSpeedRatio\ClockControllerSpeedRatio\obj\Debug\ClockControllerSpeedRatio.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\ClockControllerSpeedRatio\ClockControllerSpeedRatio\obj\Debug\ClockControllerSpeedRatio.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\ClockControllerSpeedRatio\ClockControllerSpeedRatio\obj\Debug\ClockControllerSpeedRatio.pdb

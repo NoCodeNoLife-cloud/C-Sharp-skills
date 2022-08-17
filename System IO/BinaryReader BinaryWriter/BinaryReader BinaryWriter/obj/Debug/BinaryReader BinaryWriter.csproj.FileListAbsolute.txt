@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\BinaryReader BinaryWriter\BinaryReader BinaryWriter\bin\Debug\BinaryReader BinaryWriter.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\BinaryReader BinaryWriter\BinaryReader BinaryWriter\bin\Debug\BinaryReader BinaryWriter.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\BinaryReader BinaryWriter\BinaryReader BinaryWriter\obj\Debug\BinaryReader BinaryWriter.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\BinaryReader BinaryWriter\BinaryReader BinaryWriter\obj\Debug\BinaryReader BinaryWriter.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\BinaryReader BinaryWriter\BinaryReader BinaryWriter\obj\Debug\BinaryReader BinaryWriter.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\BinaryReader BinaryWriter\BinaryReader BinaryWriter\obj\Debug\BinaryReader BinaryWriter.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\BinaryReader BinaryWriter\BinaryReader BinaryWriter\obj\Debug\BinaryReader BinaryWriter.pdb

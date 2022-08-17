@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\FileSystemWatcher\FileSystemWatcher\bin\Debug\FileSystemWatcher.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\FileSystemWatcher\FileSystemWatcher\obj\Debug\FileSystemWatcher.pdb

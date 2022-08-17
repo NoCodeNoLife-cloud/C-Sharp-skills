@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\EndOfStreamException\EndOfStreamException\bin\Debug\EndOfStreamException.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\EndOfStreamException\EndOfStreamException\bin\Debug\EndOfStreamException.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\EndOfStreamException\EndOfStreamException\obj\Debug\EndOfStreamException.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\EndOfStreamException\EndOfStreamException\obj\Debug\EndOfStreamException.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\EndOfStreamException\EndOfStreamException\obj\Debug\EndOfStreamException.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\EndOfStreamException\EndOfStreamException\obj\Debug\EndOfStreamException.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\EndOfStreamException\EndOfStreamException\obj\Debug\EndOfStreamException.pdb

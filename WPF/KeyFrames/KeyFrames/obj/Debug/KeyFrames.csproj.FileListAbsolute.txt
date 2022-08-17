@@ -1,0 +1,16 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\KeyFrames\KeyFrames\obj\Debug\KeyFrames.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\KeyFrames\KeyFrames\obj\Debug\KeyFrames.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\KeyFrames\KeyFrames\obj\Debug\MainWindow.g.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\KeyFrames\KeyFrames\obj\Debug\App.g.cs
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\KeyFrames\KeyFrames\obj\Debug\KeyFrames_MarkupCompile.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\KeyFrames\KeyFrames\obj\Debug\KeyFrames_MarkupCompile.lref
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\KeyFrames\KeyFrames\bin\Debug\KeyFrames.exe.config
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\KeyFrames\KeyFrames\bin\Debug\KeyFrames.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\KeyFrames\KeyFrames\bin\Debug\KeyFrames.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\KeyFrames\KeyFrames\obj\Debug\MainWindow.baml
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\KeyFrames\KeyFrames\obj\Debug\KeyFrames.g.resources
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\KeyFrames\KeyFrames\obj\Debug\KeyFrames.Properties.Resources.resources
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\KeyFrames\KeyFrames\obj\Debug\KeyFrames.csproj.GenerateResource.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\KeyFrames\KeyFrames\obj\Debug\KeyFrames.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\KeyFrames\KeyFrames\obj\Debug\KeyFrames.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WPF\KeyFrames\KeyFrames\obj\Debug\KeyFrames.pdb

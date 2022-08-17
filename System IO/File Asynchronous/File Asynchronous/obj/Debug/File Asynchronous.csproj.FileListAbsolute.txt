@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\File Asynchronous\File Asynchronous\bin\Debug\File_Asynchronous.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\File Asynchronous\File Asynchronous\bin\Debug\File_Asynchronous.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\File Asynchronous\File Asynchronous\obj\Debug\File Asynchronous.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\File Asynchronous\File Asynchronous\obj\Debug\File Asynchronous.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\File Asynchronous\File Asynchronous\obj\Debug\File Asynchronous.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\File Asynchronous\File Asynchronous\obj\Debug\File_Asynchronous.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\File Asynchronous\File Asynchronous\obj\Debug\File_Asynchronous.pdb
