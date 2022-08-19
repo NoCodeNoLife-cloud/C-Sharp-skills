@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\Property retrieves a collection\Property retrieves a collection\bin\Debug\Property_retrieves_a_collection.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\Property retrieves a collection\Property retrieves a collection\bin\Debug\Property_retrieves_a_collection.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\Property retrieves a collection\Property retrieves a collection\obj\Debug\Property retrieves a collection.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\Property retrieves a collection\Property retrieves a collection\obj\Debug\Property retrieves a collection.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\Property retrieves a collection\Property retrieves a collection\obj\Debug\Property retrieves a collection.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\Property retrieves a collection\Property retrieves a collection\obj\Debug\Property_retrieves_a_collection.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\Property retrieves a collection\Property retrieves a collection\obj\Debug\Property_retrieves_a_collection.pdb

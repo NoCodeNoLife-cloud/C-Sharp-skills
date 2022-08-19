@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\save xml\save xml\bin\Debug\save_xml.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\save xml\save xml\bin\Debug\save_xml.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\save xml\save xml\obj\Debug\save xml.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\save xml\save xml\obj\Debug\save xml.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\save xml\save xml\obj\Debug\save xml.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\save xml\save xml\obj\Debug\save_xml.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\save xml\save xml\obj\Debug\save_xml.pdb

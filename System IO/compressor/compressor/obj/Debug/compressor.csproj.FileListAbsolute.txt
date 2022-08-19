@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\compressor\compressor\bin\Debug\compressor.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\compressor\compressor\bin\Debug\compressor.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\compressor\compressor\obj\Debug\compressor.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\compressor\compressor\obj\Debug\compressor.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\compressor\compressor\obj\Debug\compressor.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\compressor\compressor\obj\Debug\compressor.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\compressor\compressor\obj\Debug\compressor.pdb

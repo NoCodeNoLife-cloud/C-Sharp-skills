@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\Creating a new Feature\Creating a new Feature\bin\Debug\Creating_a_new_Feature.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\Creating a new Feature\Creating a new Feature\bin\Debug\Creating_a_new_Feature.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\Creating a new Feature\Creating a new Feature\obj\Debug\Creating a new Feature.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\Creating a new Feature\Creating a new Feature\obj\Debug\Creating a new Feature.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\Creating a new Feature\Creating a new Feature\obj\Debug\Creating a new Feature.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\Creating a new Feature\Creating a new Feature\obj\Debug\Creating_a_new_Feature.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\Creating a new Feature\Creating a new Feature\obj\Debug\Creating_a_new_Feature.pdb

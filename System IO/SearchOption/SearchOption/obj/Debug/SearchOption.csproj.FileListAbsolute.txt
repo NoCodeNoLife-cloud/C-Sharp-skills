@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\SearchOption\SearchOption\bin\Debug\SearchOption.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\SearchOption\SearchOption\bin\Debug\SearchOption.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\SearchOption\SearchOption\obj\Debug\SearchOption.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\SearchOption\SearchOption\obj\Debug\SearchOption.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\SearchOption\SearchOption\obj\Debug\SearchOption.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\SearchOption\SearchOption\obj\Debug\SearchOption.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\SearchOption\SearchOption\obj\Debug\SearchOption.pdb

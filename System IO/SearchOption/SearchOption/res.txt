@@ -1,0 +1,10 @@
+Directories that begin with the letter "c" in d:\
+d:\CCleaner Pro               2021/11/17 上午 8:36:31
+d:\Cheat Engine 7.2             2022/5/1 下午 3:20:06
+d:\Clash                       2022/8/3 上午 10:10:24
+d:\CLion 2021.2.3             2021/12/8 下午 12:05:57
+d:\CloudMusic                   2022/8/3 下午 6:51:49
+d:\Config.Msi                  2020/6/23 下午 1:57:26
+d:\CrystalDiskMark8.0.4       2021/9/28 上午 11:42:14
+
+Files that begin with the letter "c" in d:\

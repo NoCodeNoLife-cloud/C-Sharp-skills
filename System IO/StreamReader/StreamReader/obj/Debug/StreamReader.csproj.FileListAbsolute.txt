@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\StreamReader\StreamReader\bin\Debug\StreamReader.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\StreamReader\StreamReader\bin\Debug\StreamReader.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\StreamReader\StreamReader\obj\Debug\StreamReader.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\StreamReader\StreamReader\obj\Debug\StreamReader.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\StreamReader\StreamReader\obj\Debug\StreamReader.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\StreamReader\StreamReader\obj\Debug\StreamReader.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\System IO\StreamReader\StreamReader\obj\Debug\StreamReader.pdb

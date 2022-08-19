@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\XML file reading\XML file reading\bin\Debug\XML_file_reading.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\XML file reading\XML file reading\bin\Debug\XML_file_reading.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\XML file reading\XML file reading\obj\Debug\XML file reading.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\XML file reading\XML file reading\obj\Debug\XML file reading.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\XML file reading\XML file reading\obj\Debug\XML file reading.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\XML file reading\XML file reading\obj\Debug\XML_file_reading.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\xml\XML file reading\XML file reading\obj\Debug\XML_file_reading.pdb
