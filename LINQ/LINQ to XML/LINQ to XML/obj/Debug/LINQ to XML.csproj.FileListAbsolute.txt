@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ to XML\LINQ to XML\bin\Debug\LINQ_to_XML.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ to XML\LINQ to XML\bin\Debug\LINQ_to_XML.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ to XML\LINQ to XML\obj\Debug\LINQ to XML.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ to XML\LINQ to XML\obj\Debug\LINQ to XML.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ to XML\LINQ to XML\obj\Debug\LINQ to XML.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ to XML\LINQ to XML\obj\Debug\LINQ_to_XML.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ to XML\LINQ to XML\obj\Debug\LINQ_to_XML.pdb

@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ group\LINQ group\obj\Debug\LINQ group.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ group\LINQ group\obj\Debug\LINQ group.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ group\LINQ group\obj\Debug\LINQ group.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ group\LINQ group\bin\Debug\LINQ_group.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ group\LINQ group\bin\Debug\LINQ_group.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ group\LINQ group\obj\Debug\LINQ_group.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ group\LINQ group\obj\Debug\LINQ_group.pdb
