@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\OrderQueryResults\OrderQueryResults\bin\Debug\OrderQueryResults.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\OrderQueryResults\OrderQueryResults\bin\Debug\OrderQueryResults.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\OrderQueryResults\OrderQueryResults\obj\Debug\OrderQueryResults.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\OrderQueryResults\OrderQueryResults\obj\Debug\OrderQueryResults.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\OrderQueryResults\OrderQueryResults\obj\Debug\OrderQueryResults.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\OrderQueryResults\OrderQueryResults\obj\Debug\OrderQueryResults.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\OrderQueryResults\OrderQueryResults\obj\Debug\OrderQueryResults.pdb

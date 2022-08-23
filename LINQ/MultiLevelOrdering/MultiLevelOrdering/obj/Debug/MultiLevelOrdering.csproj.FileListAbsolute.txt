@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\MultiLevelOrdering\MultiLevelOrdering\bin\Debug\MultiLevelOrdering.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\MultiLevelOrdering\MultiLevelOrdering\bin\Debug\MultiLevelOrdering.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\MultiLevelOrdering\MultiLevelOrdering\obj\Debug\MultiLevelOrdering.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\MultiLevelOrdering\MultiLevelOrdering\obj\Debug\MultiLevelOrdering.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\MultiLevelOrdering\MultiLevelOrdering\obj\Debug\MultiLevelOrdering.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\MultiLevelOrdering\MultiLevelOrdering\obj\Debug\MultiLevelOrdering.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\MultiLevelOrdering\MultiLevelOrdering\obj\Debug\MultiLevelOrdering.pdb

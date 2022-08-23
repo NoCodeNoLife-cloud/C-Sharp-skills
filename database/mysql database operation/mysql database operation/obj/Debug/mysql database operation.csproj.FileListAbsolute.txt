@@ -1,0 +1,33 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\bin\Debug\mysql_database_operation.exe.config
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\bin\Debug\mysql_database_operation.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\bin\Debug\mysql_database_operation.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\bin\Debug\BouncyCastle.Crypto.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\bin\Debug\Google.Protobuf.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\bin\Debug\K4os.Compression.LZ4.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\bin\Debug\K4os.Hash.xxHash.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\bin\Debug\MySql.Data.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\bin\Debug\System.Buffers.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\bin\Debug\System.Memory.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\bin\Debug\System.Numerics.Vectors.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\bin\Debug\Ubiety.Dns.Core.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\bin\Debug\ZstdNet.dll
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\bin\Debug\BouncyCastle.Crypto.xml
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\bin\Debug\Google.Protobuf.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\bin\Debug\Google.Protobuf.xml
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\bin\Debug\K4os.Compression.LZ4.xml
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\bin\Debug\K4os.Hash.xxHash.xml
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\bin\Debug\MySql.Data.xml
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\bin\Debug\System.Buffers.xml
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\bin\Debug\System.Memory.xml
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\bin\Debug\System.Numerics.Vectors.xml
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\obj\Debug\mysql database operation.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\obj\Debug\mysql database operation.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\obj\Debug\mysql_database_operation.exe.config
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\obj\Debug\mysql database operation.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\obj\Debug\mysql database operation.csproj.CopyComplete
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\obj\Debug\mysql_database_operation.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\database\mysql database operation\mysql database operation\obj\Debug\mysql_database_operation.pdb

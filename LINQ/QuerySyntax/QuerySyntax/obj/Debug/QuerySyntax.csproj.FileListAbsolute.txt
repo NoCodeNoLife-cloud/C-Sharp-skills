@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\QuerySyntax\QuerySyntax\bin\Debug\QuerySyntax.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\QuerySyntax\QuerySyntax\bin\Debug\QuerySyntax.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\QuerySyntax\QuerySyntax\obj\Debug\QuerySyntax.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\QuerySyntax\QuerySyntax\obj\Debug\QuerySyntax.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\QuerySyntax\QuerySyntax\obj\Debug\QuerySyntax.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\QuerySyntax\QuerySyntax\obj\Debug\QuerySyntax.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\QuerySyntax\QuerySyntax\obj\Debug\QuerySyntax.pdb

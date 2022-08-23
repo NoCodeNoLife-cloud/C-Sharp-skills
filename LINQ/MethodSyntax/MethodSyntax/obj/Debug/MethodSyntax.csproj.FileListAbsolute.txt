@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\MethodSyntax\MethodSyntax\bin\Debug\MethodSyntax.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\MethodSyntax\MethodSyntax\bin\Debug\MethodSyntax.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\MethodSyntax\MethodSyntax\obj\Debug\MethodSyntax.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\MethodSyntax\MethodSyntax\obj\Debug\MethodSyntax.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\MethodSyntax\MethodSyntax\obj\Debug\MethodSyntax.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\MethodSyntax\MethodSyntax\obj\Debug\MethodSyntax.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\MethodSyntax\MethodSyntax\obj\Debug\MethodSyntax.pdb

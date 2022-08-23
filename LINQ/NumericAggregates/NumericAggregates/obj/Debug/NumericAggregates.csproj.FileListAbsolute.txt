@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\NumericAggregates\NumericAggregates\bin\Debug\NumericAggregates.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\NumericAggregates\NumericAggregates\bin\Debug\NumericAggregates.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\NumericAggregates\NumericAggregates\obj\Debug\NumericAggregates.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\NumericAggregates\NumericAggregates\obj\Debug\NumericAggregates.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\NumericAggregates\NumericAggregates\obj\Debug\NumericAggregates.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\NumericAggregates\NumericAggregates\obj\Debug\NumericAggregates.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\NumericAggregates\NumericAggregates\obj\Debug\NumericAggregates.pdb

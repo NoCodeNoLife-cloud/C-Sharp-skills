@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\SelectDistinctQuery\SelectDistinctQuery\bin\Debug\SelectDistinctQuery.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\SelectDistinctQuery\SelectDistinctQuery\bin\Debug\SelectDistinctQuery.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\SelectDistinctQuery\SelectDistinctQuery\obj\Debug\SelectDistinctQuery.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\SelectDistinctQuery\SelectDistinctQuery\obj\Debug\SelectDistinctQuery.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\SelectDistinctQuery\SelectDistinctQuery\obj\Debug\SelectDistinctQuery.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\SelectDistinctQuery\SelectDistinctQuery\obj\Debug\SelectDistinctQuery.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\SelectDistinctQuery\SelectDistinctQuery\obj\Debug\SelectDistinctQuery.pdb

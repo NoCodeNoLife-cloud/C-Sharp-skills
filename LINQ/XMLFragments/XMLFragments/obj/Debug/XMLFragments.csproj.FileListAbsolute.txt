@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\XMLFragments\XMLFragments\obj\Debug\XMLFragments.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\XMLFragments\XMLFragments\obj\Debug\XMLFragments.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\XMLFragments\XMLFragments\obj\Debug\XMLFragments.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\XMLFragments\XMLFragments\bin\Debug\XMLFragments.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\XMLFragments\XMLFragments\bin\Debug\XMLFragments.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\XMLFragments\XMLFragments\obj\Debug\XMLFragments.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\XMLFragments\XMLFragments\obj\Debug\XMLFragments.pdb

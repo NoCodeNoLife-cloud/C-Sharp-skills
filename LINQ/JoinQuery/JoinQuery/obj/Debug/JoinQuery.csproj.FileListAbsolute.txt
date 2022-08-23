@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\JoinQuery\JoinQuery\bin\Debug\JoinQuery.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\JoinQuery\JoinQuery\bin\Debug\JoinQuery.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\JoinQuery\JoinQuery\obj\Debug\JoinQuery.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\JoinQuery\JoinQuery\obj\Debug\JoinQuery.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\JoinQuery\JoinQuery\obj\Debug\JoinQuery.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\JoinQuery\JoinQuery\obj\Debug\JoinQuery.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\JoinQuery\JoinQuery\obj\Debug\JoinQuery.pdb

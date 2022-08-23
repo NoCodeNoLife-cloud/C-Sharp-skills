@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\LargeNumberQuery\LargeNumberQuery\bin\Debug\LargeNumberQuery.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\LargeNumberQuery\LargeNumberQuery\bin\Debug\LargeNumberQuery.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\LargeNumberQuery\LargeNumberQuery\obj\Debug\LargeNumberQuery.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\LargeNumberQuery\LargeNumberQuery\obj\Debug\LargeNumberQuery.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\LargeNumberQuery\LargeNumberQuery\obj\Debug\LargeNumberQuery.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\LargeNumberQuery\LargeNumberQuery\obj\Debug\LargeNumberQuery.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\LINQ\LargeNumberQuery\LargeNumberQuery\obj\Debug\LargeNumberQuery.pdb
