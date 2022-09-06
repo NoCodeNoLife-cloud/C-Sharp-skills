@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Tuple\Tuple\bin\Debug\Tuple.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Tuple\Tuple\bin\Debug\Tuple.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Tuple\Tuple\obj\Debug\Tuple.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Tuple\Tuple\obj\Debug\Tuple.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Tuple\Tuple\obj\Debug\Tuple.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Tuple\Tuple\obj\Debug\Tuple.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Tuple\Tuple\obj\Debug\Tuple.pdb

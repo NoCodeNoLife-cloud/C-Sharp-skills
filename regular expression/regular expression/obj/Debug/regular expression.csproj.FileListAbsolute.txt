@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\regular expression\regular expression\bin\Debug\regular_expression.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\regular expression\regular expression\bin\Debug\regular_expression.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\regular expression\regular expression\obj\Debug\regular expression.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\regular expression\regular expression\obj\Debug\regular expression.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\regular expression\regular expression\obj\Debug\regular expression.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\regular expression\regular expression\obj\Debug\regular_expression.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\regular expression\regular expression\obj\Debug\regular_expression.pdb

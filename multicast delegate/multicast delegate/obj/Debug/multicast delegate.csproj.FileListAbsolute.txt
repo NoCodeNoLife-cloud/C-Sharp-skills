@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\multicast delegate\multicast delegate\bin\Debug\multicast_delegate.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\multicast delegate\multicast delegate\bin\Debug\multicast_delegate.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\multicast delegate\multicast delegate\obj\Debug\multicast delegate.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\multicast delegate\multicast delegate\obj\Debug\multicast delegate.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\multicast delegate\multicast delegate\obj\Debug\multicast delegate.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\multicast delegate\multicast delegate\obj\Debug\multicast_delegate.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\multicast delegate\multicast delegate\obj\Debug\multicast_delegate.pdb

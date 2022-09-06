@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\StringBuilder\StringBuilderDemo\bin\Debug\StringBuilderDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\StringBuilder\StringBuilderDemo\bin\Debug\StringBuilderDemo.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\StringBuilder\StringBuilderDemo\obj\Debug\StringBuilderDemo.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\StringBuilder\StringBuilderDemo\obj\Debug\StringBuilderDemo.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\StringBuilder\StringBuilderDemo\obj\Debug\StringBuilderDemo.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\StringBuilder\StringBuilderDemo\obj\Debug\StringBuilderDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\StringBuilder\StringBuilderDemo\obj\Debug\StringBuilderDemo.pdb

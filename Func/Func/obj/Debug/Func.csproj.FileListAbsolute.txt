@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Func\Func\bin\Debug\Func.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Func\Func\bin\Debug\Func.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Func\Func\obj\Debug\Func.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Func\Func\obj\Debug\Func.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Func\Func\obj\Debug\Func.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Func\Func\obj\Debug\Func.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Func\Func\obj\Debug\Func.pdb

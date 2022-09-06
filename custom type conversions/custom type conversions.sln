@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "custom type conversions", "custom type conversions\custom type conversions.csproj", "{A2677701-9D43-423E-83A4-2F1B8FE30979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2677701-9D43-423E-83A4-2F1B8FE30979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2677701-9D43-423E-83A4-2F1B8FE30979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2677701-9D43-423E-83A4-2F1B8FE30979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2677701-9D43-423E-83A4-2F1B8FE30979}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

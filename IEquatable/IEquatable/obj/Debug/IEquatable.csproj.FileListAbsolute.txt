@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IEquatable\IEquatable\bin\Debug\IEquatable.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IEquatable\IEquatable\bin\Debug\IEquatable.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IEquatable\IEquatable\obj\Debug\IEquatable.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IEquatable\IEquatable\obj\Debug\IEquatable.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IEquatable\IEquatable\obj\Debug\IEquatable.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IEquatable\IEquatable\obj\Debug\IEquatable.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IEquatable\IEquatable\obj\Debug\IEquatable.pdb

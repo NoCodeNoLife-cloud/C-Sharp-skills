@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\delegate used to function parameter\delegate used to function parameter\bin\Debug\delegate_used_to_function_parameter.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\delegate used to function parameter\delegate used to function parameter\bin\Debug\delegate_used_to_function_parameter.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\delegate used to function parameter\delegate used to function parameter\obj\Debug\delegate used to function parameter.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\delegate used to function parameter\delegate used to function parameter\obj\Debug\delegate used to function parameter.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\delegate used to function parameter\delegate used to function parameter\obj\Debug\delegate used to function parameter.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\delegate used to function parameter\delegate used to function parameter\obj\Debug\delegate_used_to_function_parameter.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\delegate used to function parameter\delegate used to function parameter\obj\Debug\delegate_used_to_function_parameter.pdb

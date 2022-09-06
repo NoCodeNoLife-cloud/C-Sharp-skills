@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\custom type conversions\custom type conversions\bin\Debug\custom_type_conversions.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\custom type conversions\custom type conversions\bin\Debug\custom_type_conversions.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\custom type conversions\custom type conversions\obj\Debug\custom type conversions.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\custom type conversions\custom type conversions\obj\Debug\custom type conversions.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\custom type conversions\custom type conversions\obj\Debug\custom type conversions.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\custom type conversions\custom type conversions\obj\Debug\custom_type_conversions.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\custom type conversions\custom type conversions\obj\Debug\custom_type_conversions.pdb

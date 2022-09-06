@@ -11,7 +11,6 @@ namespace define_events
             myConnection1.Name = "First connection.";
             Connection myConnection2 = new Connection();
             myConnection2.Name = "Second connection.";
-            Display myDisplay = new Display();
             myConnection1.MessageArrived +=
                 delegate(object source, MessageArrivedEventArgs e)
                 {

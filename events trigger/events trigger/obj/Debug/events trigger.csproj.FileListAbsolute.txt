@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\events trigger\events trigger\bin\Debug\events_trigger.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\events trigger\events trigger\bin\Debug\events_trigger.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\events trigger\events trigger\obj\Debug\events trigger.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\events trigger\events trigger\obj\Debug\events trigger.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\events trigger\events trigger\obj\Debug\events trigger.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\events trigger\events trigger\obj\Debug\events_trigger.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\events trigger\events trigger\obj\Debug\events_trigger.pdb

@@ -7,13 +7,13 @@ namespace string_type
         public static void Main(string[] args)
         {
             // assign
-            string str = "Hello World";
+            string str = "Hello World, today is sunshine!";
 
             // ToCharArray
             char[] chars = str.ToCharArray();
             foreach (char item in chars)
             {
-                Console.Out.Write($"{item} ");
+                Console.Out.Write($"{item}");
             }
 
             Console.Out.Write(Console.Out.NewLine);

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuple", "Tuple\Tuple.csproj", "{8C1875FE-9728-43F4-BFF1-20AA91F5BE4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C1875FE-9728-43F4-BFF1-20AA91F5BE4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C1875FE-9728-43F4-BFF1-20AA91F5BE4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C1875FE-9728-43F4-BFF1-20AA91F5BE4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C1875FE-9728-43F4-BFF1-20AA91F5BE4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
