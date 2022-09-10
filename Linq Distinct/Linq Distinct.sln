@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq Distinct Demo", "Linq Distinct Demo\Linq Distinct Demo.csproj", "{18831E25-9182-4354-8C0E-5ED03CB4FF52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18831E25-9182-4354-8C0E-5ED03CB4FF52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18831E25-9182-4354-8C0E-5ED03CB4FF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18831E25-9182-4354-8C0E-5ED03CB4FF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18831E25-9182-4354-8C0E-5ED03CB4FF52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

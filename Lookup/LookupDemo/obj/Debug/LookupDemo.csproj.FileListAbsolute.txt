@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Lookup\LookupDemo\bin\Debug\LookupDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Lookup\LookupDemo\bin\Debug\LookupDemo.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Lookup\LookupDemo\obj\Debug\LookupDemo.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Lookup\LookupDemo\obj\Debug\LookupDemo.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Lookup\LookupDemo\obj\Debug\LookupDemo.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Lookup\LookupDemo\obj\Debug\LookupDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Lookup\LookupDemo\obj\Debug\LookupDemo.pdb

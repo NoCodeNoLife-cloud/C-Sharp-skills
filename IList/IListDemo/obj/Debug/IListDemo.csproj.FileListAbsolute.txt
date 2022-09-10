@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IList\IListDemo\bin\Debug\IListDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IList\IListDemo\bin\Debug\IListDemo.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IList\IListDemo\obj\Debug\IListDemo.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IList\IListDemo\obj\Debug\IListDemo.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IList\IListDemo\obj\Debug\IListDemo.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IList\IListDemo\obj\Debug\IListDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IList\IListDemo\obj\Debug\IListDemo.pdb

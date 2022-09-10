@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IDictionary\IDictionaryDemo\bin\Debug\IDictionaryDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IDictionary\IDictionaryDemo\bin\Debug\IDictionaryDemo.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IDictionary\IDictionaryDemo\obj\Debug\IDictionaryDemo.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IDictionary\IDictionaryDemo\obj\Debug\IDictionaryDemo.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IDictionary\IDictionaryDemo\obj\Debug\IDictionaryDemo.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IDictionary\IDictionaryDemo\obj\Debug\IDictionaryDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IDictionary\IDictionaryDemo\obj\Debug\IDictionaryDemo.pdb

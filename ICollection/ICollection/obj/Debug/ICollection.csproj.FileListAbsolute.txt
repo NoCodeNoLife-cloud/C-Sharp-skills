@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\ICollection\ICollection\bin\Debug\ICollection.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\ICollection\ICollection\bin\Debug\ICollection.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\ICollection\ICollection\obj\Debug\ICollection.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\ICollection\ICollection\obj\Debug\ICollection.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\ICollection\ICollection\obj\Debug\ICollection.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\ICollection\ICollection\obj\Debug\ICollection.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\ICollection\ICollection\obj\Debug\ICollection.pdb

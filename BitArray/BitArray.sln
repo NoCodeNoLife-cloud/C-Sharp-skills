@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitArrayDemo", "BitArrayDemo\BitArrayDemo.csproj", "{0A81576F-B06F-4386-B26F-0A782F318DDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A81576F-B06F-4386-B26F-0A782F318DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A81576F-B06F-4386-B26F-0A782F318DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A81576F-B06F-4386-B26F-0A782F318DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A81576F-B06F-4386-B26F-0A782F318DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

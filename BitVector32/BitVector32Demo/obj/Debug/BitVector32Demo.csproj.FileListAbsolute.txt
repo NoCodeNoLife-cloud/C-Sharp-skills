@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\BitVector32\BitVector32Demo\bin\Debug\BitVector32Demo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\BitVector32\BitVector32Demo\bin\Debug\BitVector32Demo.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\BitVector32\BitVector32Demo\obj\Debug\BitVector32Demo.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\BitVector32\BitVector32Demo\obj\Debug\BitVector32Demo.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\BitVector32\BitVector32Demo\obj\Debug\BitVector32Demo.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\BitVector32\BitVector32Demo\obj\Debug\BitVector32Demo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\BitVector32\BitVector32Demo\obj\Debug\BitVector32Demo.pdb

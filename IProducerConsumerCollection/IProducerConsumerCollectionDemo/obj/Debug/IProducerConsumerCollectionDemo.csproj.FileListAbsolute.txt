@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IProducerConsumerCollection\IProducerConsumerCollectionDemo\bin\Debug\IProducerConsumerCollectionDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IProducerConsumerCollection\IProducerConsumerCollectionDemo\bin\Debug\IProducerConsumerCollectionDemo.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IProducerConsumerCollection\IProducerConsumerCollectionDemo\obj\Debug\IProducerConsumerCollectionDemo.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IProducerConsumerCollection\IProducerConsumerCollectionDemo\obj\Debug\IProducerConsumerCollectionDemo.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IProducerConsumerCollection\IProducerConsumerCollectionDemo\obj\Debug\IProducerConsumerCollectionDemo.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IProducerConsumerCollection\IProducerConsumerCollectionDemo\obj\Debug\IProducerConsumerCollectionDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IProducerConsumerCollection\IProducerConsumerCollectionDemo\obj\Debug\IProducerConsumerCollectionDemo.pdb

@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IComparer\IComparerDemo\bin\Debug\IComparerDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IComparer\IComparerDemo\bin\Debug\IComparerDemo.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IComparer\IComparerDemo\obj\Debug\IComparerDemo.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IComparer\IComparerDemo\obj\Debug\IComparerDemo.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IComparer\IComparerDemo\obj\Debug\IComparerDemo.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IComparer\IComparerDemo\obj\Debug\IComparerDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IComparer\IComparerDemo\obj\Debug\IComparerDemo.pdb

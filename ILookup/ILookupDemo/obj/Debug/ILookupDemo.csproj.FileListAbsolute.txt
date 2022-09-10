@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\ILookup\ILookupDemo\bin\Debug\ILookupDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\ILookup\ILookupDemo\bin\Debug\ILookupDemo.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\ILookup\ILookupDemo\obj\Debug\ILookupDemo.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\ILookup\ILookupDemo\obj\Debug\ILookupDemo.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\ILookup\ILookupDemo\obj\Debug\ILookupDemo.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\ILookup\ILookupDemo\obj\Debug\ILookupDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\ILookup\ILookupDemo\obj\Debug\ILookupDemo.pdb

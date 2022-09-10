@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IEqualityComparer\IEqualityComparerDemo\bin\Debug\IEqualityComparerDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IEqualityComparer\IEqualityComparerDemo\bin\Debug\IEqualityComparerDemo.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IEqualityComparer\IEqualityComparerDemo\obj\Debug\IEqualityComparerDemo.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IEqualityComparer\IEqualityComparerDemo\obj\Debug\IEqualityComparerDemo.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IEqualityComparer\IEqualityComparerDemo\obj\Debug\IEqualityComparerDemo.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IEqualityComparer\IEqualityComparerDemo\obj\Debug\IEqualityComparerDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IEqualityComparer\IEqualityComparerDemo\obj\Debug\IEqualityComparerDemo.pdb

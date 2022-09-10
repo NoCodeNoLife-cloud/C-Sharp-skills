@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Linq Distinct\Linq Distinct Demo\bin\Debug\Linq_Distinct_Demo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Linq Distinct\Linq Distinct Demo\bin\Debug\Linq_Distinct_Demo.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Linq Distinct\Linq Distinct Demo\obj\Debug\Linq Distinct Demo.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Linq Distinct\Linq Distinct Demo\obj\Debug\Linq Distinct Demo.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Linq Distinct\Linq Distinct Demo\obj\Debug\Linq Distinct Demo.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Linq Distinct\Linq Distinct Demo\obj\Debug\Linq_Distinct_Demo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Linq Distinct\Linq Distinct Demo\obj\Debug\Linq_Distinct_Demo.pdb
