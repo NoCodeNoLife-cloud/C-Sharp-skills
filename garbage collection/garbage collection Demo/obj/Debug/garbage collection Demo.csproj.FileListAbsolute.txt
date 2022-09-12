@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\garbage collection\garbage collection Demo\bin\Debug\garbage_collection_Demo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\garbage collection\garbage collection Demo\bin\Debug\garbage_collection_Demo.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\garbage collection\garbage collection Demo\obj\Debug\garbage collection Demo.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\garbage collection\garbage collection Demo\obj\Debug\garbage collection Demo.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\garbage collection\garbage collection Demo\obj\Debug\garbage collection Demo.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\garbage collection\garbage collection Demo\obj\Debug\garbage_collection_Demo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\garbage collection\garbage collection Demo\obj\Debug\garbage_collection_Demo.pdb

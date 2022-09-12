@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Enumerable Except\Enumerable Except demo\bin\Debug\Enumerable_Except_demo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Enumerable Except\Enumerable Except demo\bin\Debug\Enumerable_Except_demo.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Enumerable Except\Enumerable Except demo\obj\Debug\Enumerable Except demo.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Enumerable Except\Enumerable Except demo\obj\Debug\Enumerable Except demo.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Enumerable Except\Enumerable Except demo\obj\Debug\Enumerable Except demo.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Enumerable Except\Enumerable Except demo\obj\Debug\Enumerable_Except_demo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Enumerable Except\Enumerable Except demo\obj\Debug\Enumerable_Except_demo.pdb

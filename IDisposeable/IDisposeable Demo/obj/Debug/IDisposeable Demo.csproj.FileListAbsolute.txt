@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IDisposeable\IDisposeable Demo\bin\Debug\IDisposeable_Demo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IDisposeable\IDisposeable Demo\bin\Debug\IDisposeable_Demo.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IDisposeable\IDisposeable Demo\obj\Debug\IDisposeable Demo.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IDisposeable\IDisposeable Demo\obj\Debug\IDisposeable Demo.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IDisposeable\IDisposeable Demo\obj\Debug\IDisposeable Demo.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IDisposeable\IDisposeable Demo\obj\Debug\IDisposeable_Demo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\IDisposeable\IDisposeable Demo\obj\Debug\IDisposeable_Demo.pdb

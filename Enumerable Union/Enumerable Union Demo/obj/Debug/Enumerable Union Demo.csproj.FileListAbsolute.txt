@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Enumerable Union\Enumerable Union Demo\bin\Debug\Enumerable_Union_Demo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Enumerable Union\Enumerable Union Demo\bin\Debug\Enumerable_Union_Demo.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Enumerable Union\Enumerable Union Demo\obj\Debug\Enumerable Union Demo.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Enumerable Union\Enumerable Union Demo\obj\Debug\Enumerable Union Demo.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Enumerable Union\Enumerable Union Demo\obj\Debug\Enumerable Union Demo.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Enumerable Union\Enumerable Union Demo\obj\Debug\Enumerable_Union_Demo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Enumerable Union\Enumerable Union Demo\obj\Debug\Enumerable_Union_Demo.pdb
