@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Type class show function infomation\Type class show function infomation\bin\Debug\Type_class_show_function_infomation.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Type class show function infomation\Type class show function infomation\bin\Debug\Type_class_show_function_infomation.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Type class show function infomation\Type class show function infomation\obj\Debug\Type class show function infomation.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Type class show function infomation\Type class show function infomation\obj\Debug\Type class show function infomation.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Type class show function infomation\Type class show function infomation\obj\Debug\Type class show function infomation.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Type class show function infomation\Type class show function infomation\obj\Debug\Type_class_show_function_infomation.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Type class show function infomation\Type class show function infomation\obj\Debug\Type_class_show_function_infomation.pdb
