@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\Semaphore\SemaphoreDemo\bin\Debug\SemaphoreDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\Semaphore\SemaphoreDemo\bin\Debug\SemaphoreDemo.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\Semaphore\SemaphoreDemo\obj\Debug\SemaphoreDemo.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\Semaphore\SemaphoreDemo\obj\Debug\SemaphoreDemo.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\Semaphore\SemaphoreDemo\obj\Debug\SemaphoreDemo.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\Semaphore\SemaphoreDemo\obj\Debug\SemaphoreDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\Semaphore\SemaphoreDemo\obj\Debug\SemaphoreDemo.pdb

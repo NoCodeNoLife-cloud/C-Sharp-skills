@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\ThreadStart\ThreadStart\bin\Debug\ThreadStart.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\ThreadStart\ThreadStart\bin\Debug\ThreadStart.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\ThreadStart\ThreadStart\obj\Debug\ThreadStart.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\ThreadStart\ThreadStart\obj\Debug\ThreadStart.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\ThreadStart\ThreadStart\obj\Debug\ThreadStart.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\ThreadStart\ThreadStart\obj\Debug\ThreadStart.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\ThreadStart\ThreadStart\obj\Debug\ThreadStart.pdb

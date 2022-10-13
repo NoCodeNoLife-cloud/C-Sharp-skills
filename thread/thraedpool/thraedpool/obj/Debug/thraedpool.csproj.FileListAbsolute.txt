@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thraedpool\thraedpool\bin\Debug\thraedpool.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thraedpool\thraedpool\bin\Debug\thraedpool.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thraedpool\thraedpool\obj\Debug\thraedpool.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thraedpool\thraedpool\obj\Debug\thraedpool.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thraedpool\thraedpool\obj\Debug\thraedpool.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thraedpool\thraedpool\obj\Debug\thraedpool.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thraedpool\thraedpool\obj\Debug\thraedpool.pdb

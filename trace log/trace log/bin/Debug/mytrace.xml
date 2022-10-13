@@ -1,0 +1,384 @@
+<E2ETraceEvent xmlns="http://schemas.microsoft.com/2004/06/E2ETraceEvent">
+    <System xmlns="http://schemas.microsoft.com/2004/06/windows/eventlog/system">
+        <EventID>0</EventID>
+        <Type>3</Type>
+        <SubType Name="Start">0</SubType>
+        <Level>255</Level>
+        <TimeCreated SystemTime="2022-10-05T00:56:45.6357302Z"/>
+        <Source Name="Wrox.ProCSharp.Instrumentation"/>
+        <Correlation ActivityID="{e6ee3112-8ce4-49ca-8ac0-5f7618149acb}"/>
+        <Execution ProcessName="trace_log" ProcessID="11916" ThreadID="1"/>
+        <Channel/>
+        <Computer>XTZJ-20210715BR</Computer>
+    </System>
+    <ApplicationData>Main started
+        <System.Diagnostics xmlns="http://schemas.microsoft.com/2004/08/System.Diagnostics">
+            <LogicalOperationStack></LogicalOperationStack>
+            <Timestamp>75985511763</Timestamp>
+            <Callstack>在 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)&#xD;&#xA; 在
+                System.Environment.get_StackTrace()&#xD;&#xA; 在 System.Diagnostics.TraceEventCache.get_Callstack()&#xD;&#xA;
+                在 System.Diagnostics.XmlWriterTraceListener.WriteFooter(TraceEventCache eventCache)&#xD;&#xA; 在
+                System.Diagnostics.XmlWriterTraceListener.TraceEvent(TraceEventCache eventCache, String source,
+                TraceEventType eventType, Int32 id, String message)&#xD;&#xA; 在
+                System.Diagnostics.TraceSource.TraceEvent(TraceEventType eventType, Int32 id, String message)&#xD;&#xA;
+                在 Wrox.ProCSharp.Instrumentation.Program.Main() 位置
+                H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\trace log\trace log\Program.cs:行号 42
+            </Callstack>
+        </System.Diagnostics>
+    </ApplicationData>
+</E2ETraceEvent><E2ETraceEvent xmlns="http://schemas.microsoft.com/2004/06/E2ETraceEvent">
+<System xmlns="http://schemas.microsoft.com/2004/06/windows/eventlog/system">
+    <EventID>0</EventID>
+    <Type>3</Type>
+    <SubType Name="Information">0</SubType>
+    <Level>8</Level>
+    <TimeCreated SystemTime="2022-10-05T00:56:45.6652351Z"/>
+    <Source Name="Wrox.ProCSharp.Instrumentation"/>
+    <Correlation ActivityID="{e6ee3112-8ce4-49ca-8ac0-5f7618149acb}"/>
+    <Execution ProcessName="trace_log" ProcessID="11916" ThreadID="1"/>
+    <Channel/>
+    <Computer>XTZJ-20210715BR</Computer>
+</System>
+<ApplicationData>Info message
+    <System.Diagnostics xmlns="http://schemas.microsoft.com/2004/08/System.Diagnostics">
+        <LogicalOperationStack>
+            <LogicalOperation>Main</LogicalOperation>
+        </LogicalOperationStack>
+        <Timestamp>75985758433</Timestamp>
+        <Callstack>在 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)&#xD;&#xA; 在
+            System.Environment.get_StackTrace()&#xD;&#xA; 在 System.Diagnostics.TraceEventCache.get_Callstack()&#xD;&#xA;
+            在 System.Diagnostics.XmlWriterTraceListener.WriteFooter(TraceEventCache eventCache)&#xD;&#xA; 在
+            System.Diagnostics.XmlWriterTraceListener.TraceEvent(TraceEventCache eventCache, String source,
+            TraceEventType eventType, Int32 id, String format, Object[] args)&#xD;&#xA; 在
+            System.Diagnostics.TraceSource.TraceEvent(TraceEventType eventType, Int32 id, String format, Object[] args)&#xD;&#xA;
+            在 System.Diagnostics.TraceSource.TraceInformation(String message)&#xD;&#xA; 在
+            Wrox.ProCSharp.Instrumentation.Program.TraceSourceDemo1() 位置
+            H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\trace log\trace log\Program.cs:行号 17&#xD;&#xA; 在
+            Wrox.ProCSharp.Instrumentation.Program.Main() 位置
+            H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\trace log\trace log\Program.cs:行号 47
+        </Callstack>
+    </System.Diagnostics>
+</ApplicationData>
+</E2ETraceEvent><E2ETraceEvent xmlns="http://schemas.microsoft.com/2004/06/E2ETraceEvent">
+<System xmlns="http://schemas.microsoft.com/2004/06/windows/eventlog/system">
+    <EventID>3</EventID>
+    <Type>3</Type>
+    <SubType Name="Error">0</SubType>
+    <Level>2</Level>
+    <TimeCreated SystemTime="2022-10-05T00:56:45.6657272Z"/>
+    <Source Name="Wrox.ProCSharp.Instrumentation"/>
+    <Correlation ActivityID="{e6ee3112-8ce4-49ca-8ac0-5f7618149acb}"/>
+    <Execution ProcessName="trace_log" ProcessID="11916" ThreadID="1"/>
+    <Channel/>
+    <Computer>XTZJ-20210715BR</Computer>
+</System>
+<ApplicationData>Error message
+    <System.Diagnostics xmlns="http://schemas.microsoft.com/2004/08/System.Diagnostics">
+        <LogicalOperationStack>
+            <LogicalOperation>Main</LogicalOperation>
+        </LogicalOperationStack>
+        <Timestamp>75985765766</Timestamp>
+        <Callstack>在 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)&#xD;&#xA; 在
+            System.Environment.get_StackTrace()&#xD;&#xA; 在 System.Diagnostics.TraceEventCache.get_Callstack()&#xD;&#xA;
+            在 System.Diagnostics.XmlWriterTraceListener.WriteFooter(TraceEventCache eventCache)&#xD;&#xA; 在
+            System.Diagnostics.XmlWriterTraceListener.TraceEvent(TraceEventCache eventCache, String source,
+            TraceEventType eventType, Int32 id, String message)&#xD;&#xA; 在
+            System.Diagnostics.TraceSource.TraceEvent(TraceEventType eventType, Int32 id, String message)&#xD;&#xA; 在
+            Wrox.ProCSharp.Instrumentation.Program.TraceSourceDemo1() 位置
+            H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\trace log\trace log\Program.cs:行号 19&#xD;&#xA; 在
+            Wrox.ProCSharp.Instrumentation.Program.Main() 位置
+            H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\trace log\trace log\Program.cs:行号 47
+        </Callstack>
+    </System.Diagnostics>
+</ApplicationData>
+</E2ETraceEvent><E2ETraceEvent xmlns="http://schemas.microsoft.com/2004/06/E2ETraceEvent">
+<System xmlns="http://schemas.microsoft.com/2004/06/windows/eventlog/system">
+    <EventID>2</EventID>
+    <Type>3</Type>
+    <SubType Name="Information">0</SubType>
+    <Level>8</Level>
+    <TimeCreated SystemTime="2022-10-05T00:56:45.6662323Z"/>
+    <Source Name="Wrox.ProCSharp.Instrumentation"/>
+    <Correlation ActivityID="{e6ee3112-8ce4-49ca-8ac0-5f7618149acb}"/>
+    <Execution ProcessName="trace_log" ProcessID="11916" ThreadID="1"/>
+    <Channel/>
+    <Computer>XTZJ-20210715BR</Computer>
+</System>
+<ApplicationData>
+    <TraceData>
+        <DataItem>data1</DataItem>
+        <DataItem>4</DataItem>
+        <DataItem>5</DataItem>
+    </TraceData>
+    <System.Diagnostics xmlns="http://schemas.microsoft.com/2004/08/System.Diagnostics">
+        <LogicalOperationStack>
+            <LogicalOperation>Main</LogicalOperation>
+        </LogicalOperationStack>
+        <Timestamp>75985771884</Timestamp>
+        <Callstack>在 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)&#xD;&#xA; 在
+            System.Environment.get_StackTrace()&#xD;&#xA; 在 System.Diagnostics.TraceEventCache.get_Callstack()&#xD;&#xA;
+            在 System.Diagnostics.XmlWriterTraceListener.WriteFooter(TraceEventCache eventCache)&#xD;&#xA; 在
+            System.Diagnostics.XmlWriterTraceListener.TraceData(TraceEventCache eventCache, String source,
+            TraceEventType eventType, Int32 id, Object[] data)&#xD;&#xA; 在
+            System.Diagnostics.TraceSource.TraceData(TraceEventType eventType, Int32 id, Object[] data)&#xD;&#xA; 在
+            Wrox.ProCSharp.Instrumentation.Program.TraceSourceDemo1() 位置
+            H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\trace log\trace log\Program.cs:行号 20&#xD;&#xA; 在
+            Wrox.ProCSharp.Instrumentation.Program.Main() 位置
+            H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\trace log\trace log\Program.cs:行号 47
+        </Callstack>
+    </System.Diagnostics>
+</ApplicationData>
+</E2ETraceEvent><E2ETraceEvent xmlns="http://schemas.microsoft.com/2004/06/E2ETraceEvent">
+<System xmlns="http://schemas.microsoft.com/2004/06/windows/eventlog/system">
+    <EventID>0</EventID>
+    <Type>3</Type>
+    <SubType Name="Verbose">0</SubType>
+    <Level>16</Level>
+    <TimeCreated SystemTime="2022-10-05T00:56:45.6707238Z"/>
+    <Source Name="Wrox.ProCSharp.Instrumentation"/>
+    <Correlation ActivityID="{ae995065-f90e-49f2-8e1e-83127c9bcdbc}"/>
+    <Execution ProcessName="trace_log" ProcessID="11916" ThreadID="1"/>
+    <Channel/>
+    <Computer>XTZJ-20210715BR</Computer>
+</System>
+<ApplicationData>starting Foo in StartNewActivity
+    <System.Diagnostics xmlns="http://schemas.microsoft.com/2004/08/System.Diagnostics">
+        <LogicalOperationStack>
+            <LogicalOperation>StartActivityA</LogicalOperation>
+            <LogicalOperation>Main</LogicalOperation>
+        </LogicalOperationStack>
+        <Timestamp>75985815086</Timestamp>
+        <Callstack>在 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)&#xD;&#xA; 在
+            System.Environment.get_StackTrace()&#xD;&#xA; 在 System.Diagnostics.TraceEventCache.get_Callstack()&#xD;&#xA;
+            在 System.Diagnostics.XmlWriterTraceListener.WriteFooter(TraceEventCache eventCache)&#xD;&#xA; 在
+            System.Diagnostics.XmlWriterTraceListener.TraceEvent(TraceEventCache eventCache, String source,
+            TraceEventType eventType, Int32 id, String message)&#xD;&#xA; 在
+            System.Diagnostics.TraceSource.TraceEvent(TraceEventType eventType, Int32 id, String message)&#xD;&#xA; 在
+            Wrox.ProCSharp.Instrumentation.Program.StartActivityA() 位置
+            H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\trace log\trace log\Program.cs:行号 66&#xD;&#xA; 在
+            Wrox.ProCSharp.Instrumentation.Program.Main() 位置
+            H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\trace log\trace log\Program.cs:行号 49
+        </Callstack>
+    </System.Diagnostics>
+</ApplicationData>
+</E2ETraceEvent><E2ETraceEvent xmlns="http://schemas.microsoft.com/2004/06/E2ETraceEvent">
+<System xmlns="http://schemas.microsoft.com/2004/06/windows/eventlog/system">
+    <EventID>0</EventID>
+    <Type>3</Type>
+    <SubType Name="Verbose">0</SubType>
+    <Level>16</Level>
+    <TimeCreated SystemTime="2022-10-05T00:56:45.6717254Z"/>
+    <Source Name="Wrox.ProCSharp.Instrumentation"/>
+    <Correlation ActivityID="{ae995065-f90e-49f2-8e1e-83127c9bcdbc}"/>
+    <Execution ProcessName="trace_log" ProcessID="11916" ThreadID="1"/>
+    <Channel/>
+    <Computer>XTZJ-20210715BR</Computer>
+</System>
+<ApplicationData>running Foo
+    <System.Diagnostics xmlns="http://schemas.microsoft.com/2004/08/System.Diagnostics">
+        <LogicalOperationStack>
+            <LogicalOperation>Foo operation</LogicalOperation>
+            <LogicalOperation>StartActivityA</LogicalOperation>
+            <LogicalOperation>Main</LogicalOperation>
+        </LogicalOperationStack>
+        <Timestamp>75985823546</Timestamp>
+        <Callstack>在 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)&#xD;&#xA; 在
+            System.Environment.get_StackTrace()&#xD;&#xA; 在 System.Diagnostics.TraceEventCache.get_Callstack()&#xD;&#xA;
+            在 System.Diagnostics.XmlWriterTraceListener.WriteFooter(TraceEventCache eventCache)&#xD;&#xA; 在
+            System.Diagnostics.XmlWriterTraceListener.TraceEvent(TraceEventCache eventCache, String source,
+            TraceEventType eventType, Int32 id, String message)&#xD;&#xA; 在
+            System.Diagnostics.TraceSource.TraceEvent(TraceEventType eventType, Int32 id, String message)&#xD;&#xA; 在
+            Wrox.ProCSharp.Instrumentation.Program.Foo() 位置
+            H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\trace log\trace log\Program.cs:行号 89&#xD;&#xA; 在
+            Wrox.ProCSharp.Instrumentation.Program.StartActivityA() 位置
+            H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\trace log\trace log\Program.cs:行号 67&#xD;&#xA; 在
+            Wrox.ProCSharp.Instrumentation.Program.Main() 位置
+            H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\trace log\trace log\Program.cs:行号 49
+        </Callstack>
+    </System.Diagnostics>
+</ApplicationData>
+</E2ETraceEvent><E2ETraceEvent xmlns="http://schemas.microsoft.com/2004/06/E2ETraceEvent">
+<System xmlns="http://schemas.microsoft.com/2004/06/windows/eventlog/system">
+    <EventID>0</EventID>
+    <Type>3</Type>
+    <SubType Name="Verbose">0</SubType>
+    <Level>16</Level>
+    <TimeCreated SystemTime="2022-10-05T00:56:45.6717254Z"/>
+    <Source Name="Wrox.ProCSharp.Instrumentation"/>
+    <Correlation ActivityID="{ae995065-f90e-49f2-8e1e-83127c9bcdbc}"/>
+    <Execution ProcessName="trace_log" ProcessID="11916" ThreadID="1"/>
+    <Channel/>
+    <Computer>XTZJ-20210715BR</Computer>
+</System>
+<ApplicationData>starting a new task
+    <System.Diagnostics xmlns="http://schemas.microsoft.com/2004/08/System.Diagnostics">
+        <LogicalOperationStack>
+            <LogicalOperation>StartActivityA</LogicalOperation>
+            <LogicalOperation>Main</LogicalOperation>
+        </LogicalOperationStack>
+        <Timestamp>75985825954</Timestamp>
+        <Callstack>在 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)&#xD;&#xA; 在
+            System.Environment.get_StackTrace()&#xD;&#xA; 在 System.Diagnostics.TraceEventCache.get_Callstack()&#xD;&#xA;
+            在 System.Diagnostics.XmlWriterTraceListener.WriteFooter(TraceEventCache eventCache)&#xD;&#xA; 在
+            System.Diagnostics.XmlWriterTraceListener.TraceEvent(TraceEventCache eventCache, String source,
+            TraceEventType eventType, Int32 id, String message)&#xD;&#xA; 在
+            System.Diagnostics.TraceSource.TraceEvent(TraceEventType eventType, Int32 id, String message)&#xD;&#xA; 在
+            Wrox.ProCSharp.Instrumentation.Program.StartActivityA() 位置
+            H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\trace log\trace log\Program.cs:行号 69&#xD;&#xA; 在
+            Wrox.ProCSharp.Instrumentation.Program.Main() 位置
+            H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\trace log\trace log\Program.cs:行号 49
+        </Callstack>
+    </System.Diagnostics>
+</ApplicationData>
+</E2ETraceEvent><E2ETraceEvent xmlns="http://schemas.microsoft.com/2004/06/E2ETraceEvent">
+<System xmlns="http://schemas.microsoft.com/2004/06/windows/eventlog/system">
+    <EventID>0</EventID>
+    <Type>3</Type>
+    <SubType Name="Start">0</SubType>
+    <Level>255</Level>
+    <TimeCreated SystemTime="2022-10-05T00:56:45.6762263Z"/>
+    <Source Name="Wrox.ProCSharp.Instrumentation"/>
+    <Correlation ActivityID="{ae995065-f90e-49f2-8e1e-83127c9bcdbc}"/>
+    <Execution ProcessName="trace_log" ProcessID="11916" ThreadID="3"/>
+    <Channel/>
+    <Computer>XTZJ-20210715BR</Computer>
+</System>
+<ApplicationData>WorkForATask started
+    <System.Diagnostics xmlns="http://schemas.microsoft.com/2004/08/System.Diagnostics">
+        <LogicalOperationStack>
+            <LogicalOperation>StartActivityA</LogicalOperation>
+            <LogicalOperation>Main</LogicalOperation>
+        </LogicalOperationStack>
+        <Timestamp>75985867582</Timestamp>
+        <Callstack>在 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)&#xD;&#xA; 在
+            System.Environment.get_StackTrace()&#xD;&#xA; 在 System.Diagnostics.TraceEventCache.get_Callstack()&#xD;&#xA;
+            在 System.Diagnostics.XmlWriterTraceListener.WriteFooter(TraceEventCache eventCache)&#xD;&#xA; 在
+            System.Diagnostics.XmlWriterTraceListener.TraceEvent(TraceEventCache eventCache, String source,
+            TraceEventType eventType, Int32 id, String message)&#xD;&#xA; 在
+            System.Diagnostics.TraceSource.TraceEvent(TraceEventType eventType, Int32 id, String message)&#xD;&#xA; 在
+            Wrox.ProCSharp.Instrumentation.Program.WorkForATask() 位置
+            H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\trace log\trace log\Program.cs:行号 78&#xD;&#xA; 在
+            System.Threading.Tasks.Task.InnerInvoke()&#xD;&#xA; 在 System.Threading.Tasks.Task.Execute()&#xD;&#xA; 在
+            System.Threading.Tasks.Task.ExecutionContextCallback(Object obj)&#xD;&#xA; 在
+            System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback,
+            Object state, Boolean preserveSyncCtx)&#xD;&#xA; 在 System.Threading.ExecutionContext.Run(ExecutionContext
+            executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)&#xD;&#xA; 在
+            System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task&amp; currentTaskSlot)&#xD;&#xA; 在
+            System.Threading.Tasks.Task.ExecuteEntry(Boolean bPreventDoubleExecution)&#xD;&#xA; 在
+            System.Threading.Tasks.Task.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()&#xD;&#xA; 在
+            System.Threading.ThreadPoolWorkQueue.Dispatch()&#xD;&#xA; 在
+            System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+        </Callstack>
+    </System.Diagnostics>
+</ApplicationData>
+</E2ETraceEvent><E2ETraceEvent xmlns="http://schemas.microsoft.com/2004/06/E2ETraceEvent">
+<System xmlns="http://schemas.microsoft.com/2004/06/windows/eventlog/system">
+    <EventID>0</EventID>
+    <Type>3</Type>
+    <SubType Name="Verbose">0</SubType>
+    <Level>16</Level>
+    <TimeCreated SystemTime="2022-10-05T00:56:45.6767249Z"/>
+    <Source Name="Wrox.ProCSharp.Instrumentation"/>
+    <Correlation ActivityID="{ae995065-f90e-49f2-8e1e-83127c9bcdbc}"/>
+    <Execution ProcessName="trace_log" ProcessID="11916" ThreadID="3"/>
+    <Channel/>
+    <Computer>XTZJ-20210715BR</Computer>
+</System>
+<ApplicationData>running WorkForATask
+    <System.Diagnostics xmlns="http://schemas.microsoft.com/2004/08/System.Diagnostics">
+        <LogicalOperationStack>
+            <LogicalOperation>StartActivityA</LogicalOperation>
+            <LogicalOperation>Main</LogicalOperation>
+        </LogicalOperationStack>
+        <Timestamp>75985872444</Timestamp>
+        <Callstack>在 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)&#xD;&#xA; 在
+            System.Environment.get_StackTrace()&#xD;&#xA; 在 System.Diagnostics.TraceEventCache.get_Callstack()&#xD;&#xA;
+            在 System.Diagnostics.XmlWriterTraceListener.WriteFooter(TraceEventCache eventCache)&#xD;&#xA; 在
+            System.Diagnostics.XmlWriterTraceListener.TraceEvent(TraceEventCache eventCache, String source,
+            TraceEventType eventType, Int32 id, String message)&#xD;&#xA; 在
+            System.Diagnostics.TraceSource.TraceEvent(TraceEventType eventType, Int32 id, String message)&#xD;&#xA; 在
+            Wrox.ProCSharp.Instrumentation.Program.WorkForATask() 位置
+            H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\trace log\trace log\Program.cs:行号 80&#xD;&#xA; 在
+            System.Threading.Tasks.Task.InnerInvoke()&#xD;&#xA; 在 System.Threading.Tasks.Task.Execute()&#xD;&#xA; 在
+            System.Threading.Tasks.Task.ExecutionContextCallback(Object obj)&#xD;&#xA; 在
+            System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback,
+            Object state, Boolean preserveSyncCtx)&#xD;&#xA; 在 System.Threading.ExecutionContext.Run(ExecutionContext
+            executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)&#xD;&#xA; 在
+            System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task&amp; currentTaskSlot)&#xD;&#xA; 在
+            System.Threading.Tasks.Task.ExecuteEntry(Boolean bPreventDoubleExecution)&#xD;&#xA; 在
+            System.Threading.Tasks.Task.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()&#xD;&#xA; 在
+            System.Threading.ThreadPoolWorkQueue.Dispatch()&#xD;&#xA; 在
+            System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+        </Callstack>
+    </System.Diagnostics>
+</ApplicationData>
+</E2ETraceEvent><E2ETraceEvent xmlns="http://schemas.microsoft.com/2004/06/E2ETraceEvent">
+<System xmlns="http://schemas.microsoft.com/2004/06/windows/eventlog/system">
+    <EventID>0</EventID>
+    <Type>3</Type>
+    <SubType Name="Stop">0</SubType>
+    <Level>255</Level>
+    <TimeCreated SystemTime="2022-10-05T00:56:45.6767249Z"/>
+    <Source Name="Wrox.ProCSharp.Instrumentation"/>
+    <Correlation ActivityID="{ae995065-f90e-49f2-8e1e-83127c9bcdbc}"/>
+    <Execution ProcessName="trace_log" ProcessID="11916" ThreadID="3"/>
+    <Channel/>
+    <Computer>XTZJ-20210715BR</Computer>
+</System>
+<ApplicationData>WorkForATask completed
+    <System.Diagnostics xmlns="http://schemas.microsoft.com/2004/08/System.Diagnostics">
+        <LogicalOperationStack>
+            <LogicalOperation>StartActivityA</LogicalOperation>
+            <LogicalOperation>Main</LogicalOperation>
+        </LogicalOperationStack>
+        <Timestamp>75985874968</Timestamp>
+        <Callstack>在 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)&#xD;&#xA; 在
+            System.Environment.get_StackTrace()&#xD;&#xA; 在 System.Diagnostics.TraceEventCache.get_Callstack()&#xD;&#xA;
+            在 System.Diagnostics.XmlWriterTraceListener.WriteFooter(TraceEventCache eventCache)&#xD;&#xA; 在
+            System.Diagnostics.XmlWriterTraceListener.TraceEvent(TraceEventCache eventCache, String source,
+            TraceEventType eventType, Int32 id, String message)&#xD;&#xA; 在
+            System.Diagnostics.TraceSource.TraceEvent(TraceEventType eventType, Int32 id, String message)&#xD;&#xA; 在
+            Wrox.ProCSharp.Instrumentation.Program.WorkForATask() 位置
+            H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\trace log\trace log\Program.cs:行号 82&#xD;&#xA; 在
+            System.Threading.Tasks.Task.InnerInvoke()&#xD;&#xA; 在 System.Threading.Tasks.Task.Execute()&#xD;&#xA; 在
+            System.Threading.Tasks.Task.ExecutionContextCallback(Object obj)&#xD;&#xA; 在
+            System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback,
+            Object state, Boolean preserveSyncCtx)&#xD;&#xA; 在 System.Threading.ExecutionContext.Run(ExecutionContext
+            executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)&#xD;&#xA; 在
+            System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task&amp; currentTaskSlot)&#xD;&#xA; 在
+            System.Threading.Tasks.Task.ExecuteEntry(Boolean bPreventDoubleExecution)&#xD;&#xA; 在
+            System.Threading.Tasks.Task.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()&#xD;&#xA; 在
+            System.Threading.ThreadPoolWorkQueue.Dispatch()&#xD;&#xA; 在
+            System.Threading._ThreadPoolWaitCallback.PerformWaitCallback()
+        </Callstack>
+    </System.Diagnostics>
+</ApplicationData>
+</E2ETraceEvent><E2ETraceEvent xmlns="http://schemas.microsoft.com/2004/06/E2ETraceEvent">
+<System xmlns="http://schemas.microsoft.com/2004/06/windows/eventlog/system">
+    <EventID>0</EventID>
+    <Type>3</Type>
+    <SubType Name="Stop">0</SubType>
+    <Level>255</Level>
+    <TimeCreated SystemTime="2022-10-05T00:56:48.6817256Z"/>
+    <Source Name="Wrox.ProCSharp.Instrumentation"/>
+    <Correlation ActivityID="{e6ee3112-8ce4-49ca-8ac0-5f7618149acb}"/>
+    <Execution ProcessName="trace_log" ProcessID="11916" ThreadID="1"/>
+    <Channel/>
+    <Computer>XTZJ-20210715BR</Computer>
+</System>
+<ApplicationData>Main stopped
+    <System.Diagnostics xmlns="http://schemas.microsoft.com/2004/08/System.Diagnostics">
+        <LogicalOperationStack></LogicalOperationStack>
+        <Timestamp>76015926051</Timestamp>
+        <Callstack>在 System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)&#xD;&#xA; 在
+            System.Environment.get_StackTrace()&#xD;&#xA; 在 System.Diagnostics.TraceEventCache.get_Callstack()&#xD;&#xA;
+            在 System.Diagnostics.XmlWriterTraceListener.WriteFooter(TraceEventCache eventCache)&#xD;&#xA; 在
+            System.Diagnostics.XmlWriterTraceListener.TraceEvent(TraceEventCache eventCache, String source,
+            TraceEventType eventType, Int32 id, String message)&#xD;&#xA; 在
+            System.Diagnostics.TraceSource.TraceEvent(TraceEventType eventType, Int32 id, String message)&#xD;&#xA; 在
+            Wrox.ProCSharp.Instrumentation.Program.Main() 位置
+            H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\trace log\trace log\Program.cs:行号 55
+        </Callstack>
+    </System.Diagnostics>
+</ApplicationData>
+</E2ETraceEvent>

@@ -1,0 +1,8 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\trace log\trace log\bin\Debug\trace_log.exe.config
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\trace log\trace log\bin\Debug\trace_log.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\trace log\trace log\bin\Debug\trace_log.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\trace log\trace log\obj\Debug\trace log.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\trace log\trace log\obj\Debug\trace log.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\trace log\trace log\obj\Debug\trace log.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\trace log\trace log\obj\Debug\trace_log.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\trace log\trace log\obj\Debug\trace_log.pdb

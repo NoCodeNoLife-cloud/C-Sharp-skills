@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trace log", "trace log\trace log.csproj", "{191E955F-B1F3-4002-8FED-A788FF91A571}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{191E955F-B1F3-4002-8FED-A788FF91A571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{191E955F-B1F3-4002-8FED-A788FF91A571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{191E955F-B1F3-4002-8FED-A788FF91A571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{191E955F-B1F3-4002-8FED-A788FF91A571}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

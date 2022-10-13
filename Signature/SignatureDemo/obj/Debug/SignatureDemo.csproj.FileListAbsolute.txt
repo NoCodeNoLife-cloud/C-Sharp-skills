@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Signature\SignatureDemo\bin\Debug\SignatureDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Signature\SignatureDemo\bin\Debug\SignatureDemo.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Signature\SignatureDemo\obj\Debug\SignatureDemo.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Signature\SignatureDemo\obj\Debug\SignatureDemo.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Signature\SignatureDemo\obj\Debug\SignatureDemo.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Signature\SignatureDemo\obj\Debug\SignatureDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Signature\SignatureDemo\obj\Debug\SignatureDemo.pdb

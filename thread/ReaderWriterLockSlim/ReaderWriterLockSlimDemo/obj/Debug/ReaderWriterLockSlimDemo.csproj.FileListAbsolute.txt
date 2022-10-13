@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\ReaderWriterLockSlim\ReaderWriterLockSlimDemo\bin\Debug\ReaderWriterLockSlimDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\ReaderWriterLockSlim\ReaderWriterLockSlimDemo\bin\Debug\ReaderWriterLockSlimDemo.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\ReaderWriterLockSlim\ReaderWriterLockSlimDemo\obj\Debug\ReaderWriterLockSlimDemo.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\ReaderWriterLockSlim\ReaderWriterLockSlimDemo\obj\Debug\ReaderWriterLockSlimDemo.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\ReaderWriterLockSlim\ReaderWriterLockSlimDemo\obj\Debug\ReaderWriterLockSlimDemo.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\ReaderWriterLockSlim\ReaderWriterLockSlimDemo\obj\Debug\ReaderWriterLockSlimDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\ReaderWriterLockSlim\ReaderWriterLockSlimDemo\obj\Debug\ReaderWriterLockSlimDemo.pdb

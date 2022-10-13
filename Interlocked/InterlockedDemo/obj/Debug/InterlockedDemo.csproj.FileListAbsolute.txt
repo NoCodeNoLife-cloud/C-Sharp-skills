@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Interlocked\InterlockedDemo\bin\Debug\InterlockedDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Interlocked\InterlockedDemo\bin\Debug\InterlockedDemo.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Interlocked\InterlockedDemo\obj\Debug\InterlockedDemo.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Interlocked\InterlockedDemo\obj\Debug\InterlockedDemo.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Interlocked\InterlockedDemo\obj\Debug\InterlockedDemo.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Interlocked\InterlockedDemo\obj\Debug\InterlockedDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\Interlocked\InterlockedDemo\obj\Debug\InterlockedDemo.pdb

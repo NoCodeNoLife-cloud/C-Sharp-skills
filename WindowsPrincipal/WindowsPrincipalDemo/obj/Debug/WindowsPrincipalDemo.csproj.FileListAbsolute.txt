@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WindowsPrincipal\WindowsPrincipalDemo\bin\Debug\WindowsPrincipalDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WindowsPrincipal\WindowsPrincipalDemo\bin\Debug\WindowsPrincipalDemo.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WindowsPrincipal\WindowsPrincipalDemo\obj\Debug\WindowsPrincipalDemo.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WindowsPrincipal\WindowsPrincipalDemo\obj\Debug\WindowsPrincipalDemo.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WindowsPrincipal\WindowsPrincipalDemo\obj\Debug\WindowsPrincipalDemo.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WindowsPrincipal\WindowsPrincipalDemo\obj\Debug\WindowsPrincipalDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\WindowsPrincipal\WindowsPrincipalDemo\obj\Debug\WindowsPrincipalDemo.pdb

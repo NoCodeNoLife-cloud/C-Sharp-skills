@@ -1,0 +1,11 @@
+"Wrox.ProCSharp.Instrumentation":Start:0:"Main started"::11916:""::"2022-10-05T00:56:45.6357302Z"::
+"Wrox.ProCSharp.Instrumentation":Information:0:"Info message"::11916:"Main"::"2022-10-05T00:56:45.6652351Z"::
+"Wrox.ProCSharp.Instrumentation":Error:3:"Error message"::11916:"Main"::"2022-10-05T00:56:45.6657272Z"::
+"Wrox.ProCSharp.Instrumentation":Information:2::"data1","4","5":11916:"Main"::"2022-10-05T00:56:45.6662323Z"::
+"Wrox.ProCSharp.Instrumentation":Verbose:0:"starting Foo in StartNewActivity"::11916:"StartActivityA, Main"::"2022-10-05T00:56:45.6707238Z"::
+"Wrox.ProCSharp.Instrumentation":Verbose:0:"running Foo"::11916:"Foo operation, StartActivityA, Main"::"2022-10-05T00:56:45.6717254Z"::
+"Wrox.ProCSharp.Instrumentation":Verbose:0:"starting a new task"::11916:"StartActivityA, Main"::"2022-10-05T00:56:45.6717254Z"::
+"Wrox.ProCSharp.Instrumentation":Start:0:"WorkForATask started"::11916:"StartActivityA, Main"::"2022-10-05T00:56:45.6762263Z"::
+"Wrox.ProCSharp.Instrumentation":Verbose:0:"running WorkForATask"::11916:"StartActivityA, Main"::"2022-10-05T00:56:45.6767249Z"::
+"Wrox.ProCSharp.Instrumentation":Stop:0:"WorkForATask completed"::11916:"StartActivityA, Main"::"2022-10-05T00:56:45.6767249Z"::
+"Wrox.ProCSharp.Instrumentation":Stop:0:"Main stopped"::11916:""::"2022-10-05T00:56:48.6817256Z"::

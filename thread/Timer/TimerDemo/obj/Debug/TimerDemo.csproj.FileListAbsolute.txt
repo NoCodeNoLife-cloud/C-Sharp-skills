@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\Timer\TimerDemo\bin\Debug\TimerDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\Timer\TimerDemo\bin\Debug\TimerDemo.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\Timer\TimerDemo\obj\Debug\TimerDemo.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\Timer\TimerDemo\obj\Debug\TimerDemo.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\Timer\TimerDemo\obj\Debug\TimerDemo.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\Timer\TimerDemo\obj\Debug\TimerDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\Timer\TimerDemo\obj\Debug\TimerDemo.pdb

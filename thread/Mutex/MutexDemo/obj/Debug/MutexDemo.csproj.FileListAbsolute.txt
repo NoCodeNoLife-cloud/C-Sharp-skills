@@ -1,0 +1,7 @@
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\Mutex\MutexDemo\bin\Debug\MutexDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\Mutex\MutexDemo\bin\Debug\MutexDemo.pdb
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\Mutex\MutexDemo\obj\Debug\MutexDemo.csproj.AssemblyReference.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\Mutex\MutexDemo\obj\Debug\MutexDemo.csproj.SuggestedBindingRedirects.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\Mutex\MutexDemo\obj\Debug\MutexDemo.csproj.CoreCompileInputs.cache
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\Mutex\MutexDemo\obj\Debug\MutexDemo.exe
+H:\programe\GitHub-project-warehouse-manager\C-Sharp-skills\thread\Mutex\MutexDemo\obj\Debug\MutexDemo.pdb
